@@ -28,19 +28,25 @@ That's right, youre predicting what is going to come next based on previous data
 ChatGPT has a way to turn on sources. Click on the globe (circled in blue) before submitting your query.
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/turn_on_websearch.png" alt="row-wise operations" width="50%"/>
+<img src="images/turn_on_websearch.png" alt="globe location" width="50%"/>
 </div>
 
 Once ChatGPT is done answering the question, you can click on the sources button (circled in blue) and the source will pop up on the right hand side. 
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/answer_with_sources.png" alt="row-wise operations" width="50%"/>
+<img src="images/answer_with_sources.png" alt="source button location" width="50%"/>
 </div>
 
 ### Ask specific, small bits of the larger question
+If you don’t know the steps to get to your end goal, ask ChatGPT to outline the steps for you. We go over this in the Breakdown workshop.
 
-If you don’t know the steps, ask it to outline the steps first (next week’s)
-Think about if the answer makes sense 
+The more targeted your question, the better the answer. For example:
+
+<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
+<img src="images/time_example.png" alt="chat gets comfused" width="100%"/>
+</div>
+
+
 
 ## Drawbacks
 Besides the mistakes LLM can make, there are also data privacy and environemental drawbacks.
