@@ -34,7 +34,7 @@ ChatGPT has a way to turn on sources. Click on the globe (circled in blue) befor
 Once ChatGPT is done answering the question, you can click on the sources button (circled in blue) and the source will pop up on the right hand side. 
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/answer_with_sources.png" alt="source button location" width="50%"/>
+<img src="images/answer_with_sources.png" alt="source button location" width="70%"/>
 </div>
 
 ### Ask specific, small bits of the larger question
