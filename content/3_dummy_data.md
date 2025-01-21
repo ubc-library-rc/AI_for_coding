@@ -30,7 +30,7 @@ run_train = data.frame(patient_id, day, distance_ran)
 write.csv(run_train, “run_train.csv”)
 ```
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/run_data.png" alt="new dataframe screenshot" width="50%"/>
+<img src="images/run_data.png" alt="new dataframe screenshot" width="30%"/>
 </div>
 
 #### In Excel
