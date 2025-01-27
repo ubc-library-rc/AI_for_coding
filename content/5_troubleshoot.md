@@ -14,3 +14,5 @@ AI is good at helping toubleshoot errors because it can not only read the code f
 ## Code syntax inccorect
 
 ## Data format incorrect 
+
+## Need help undertsanding code
