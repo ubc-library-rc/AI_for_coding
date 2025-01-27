@@ -17,7 +17,9 @@ The most useful fake datasets have a few qualities.
 ### Let's make one!
 #### in R
 
+An example of making a dummy dataframe in R. This is the way to go if you have more complex data structures. 
 ```
+
 ## make vectors
 patient_id = c("1", "2", "3", "4", "5", "1", "2", "3", "4", "5")
 day = c("1", "1","1","1","1","2","2","2","2","2")
@@ -29,6 +31,7 @@ run_train = data.frame(patient_id, day, distance_ran)
 
 ## can then save as a .csv file that can be uploaded to ChatGPT
 write.csv(run_train, “run_train.csv”)
+
 ```
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
@@ -36,6 +39,7 @@ write.csv(run_train, “run_train.csv”)
 </div>
 
 #### In Excel
+This is the way to go if you have simple data structures and/or are not comfortable with coding. 
 Write out the values in an Excel document and save it.
 
 ## Upload the dummy data to ChatGPT
