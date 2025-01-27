@@ -31,8 +31,16 @@ Try the fix and see if it works.
 
 ## File or variable not found
 
+test with lm model
+
 ## Code syntax incorrect
+
+space in name
 
 ## Data format incorrect 
 
+data categorial when should be numeric
+
 ## Need help undertsanding code
+
+ask for help
