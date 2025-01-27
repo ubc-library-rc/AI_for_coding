@@ -31,7 +31,7 @@ Try the fix and see if it works.
 
 ## File or variable not found
 
-## Code syntax inccorect
+## Code syntax incorrect
 
 ## Data format incorrect 
 
