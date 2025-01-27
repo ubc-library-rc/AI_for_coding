@@ -16,6 +16,7 @@ The most useful fake datasets have a few qualities.
 3.	Similar to what your real data look like. For example if your data have three treatment groups that were measured on two different days, your fake data should also have this. Fake data should also replicate the structure of your data. So if your real data have measurements for each day in different columns, your fake data should also have that structure. 
 ### Let's make one!
 #### in R
+
 ```
 ## make vectors
 patient_id = c("1", "2", "3", "4", "5", "1", "2", "3", "4", "5")
@@ -29,6 +30,7 @@ run_train = data.frame(patient_id, day, distance_ran)
 ## can then save as a .csv file that can be uploaded to ChatGPT
 write.csv(run_train, “run_train.csv”)
 ```
+
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/run_data.png" alt="new dataframe screenshot" width="30%"/>
 </div>
