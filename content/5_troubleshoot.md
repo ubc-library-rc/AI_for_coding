@@ -14,12 +14,12 @@ A very common R package used to make plots in R is <a href="https://ggplot2.tidy
 ggplot(iris, aes(x=Petal.Length, y=Petal.Width))+
   geom_point()
 ```
-Copy/paste the error in ChatGPT
-<em>Error in ggplot(iris, aes(x = Petal.Length, y = Petal.Width)) : could not find function "ggplot"</em>
-
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/ggplot_error.png" alt="error message because of package" width="50%"/>
 </div>
+
+Copy/paste the error in ChatGPT
+<em>Error in ggplot(iris, aes(x = Petal.Length, y = Petal.Width)) : could not find function "ggplot"</em>
 
 Look over the answer and see what the fix here. Here, the issue is that `ggplot2` is not installed and/or loaded. 
 
