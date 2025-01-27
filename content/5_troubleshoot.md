@@ -24,7 +24,7 @@ Copy/paste the error in ChatGPT
 Look over the answer and see what the fix here. Here, the issue is that `ggplot2` is not installed and/or loaded. 
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/load_ggplot2.png" alt="ChatGPT solution" width="50%"/>
+<img src="images/load_ggplot2.png" alt="ChatGPT solution" width="70%"/>
 </div>
 
 Try the fix and see if it works. 
