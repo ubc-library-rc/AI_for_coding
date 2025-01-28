@@ -63,7 +63,7 @@ for(i in grouplist) {
 }
 ```
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/explain.png" alt="Explaning code" width="70%"/>
+<img src="images/explanation.png" alt="Explaning code" width="70%"/>
 </div>
 ChatGPT wil also suggest how to improve code, which may of may not be important or relevant. This is more of a good to know for more advanced coders. 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
