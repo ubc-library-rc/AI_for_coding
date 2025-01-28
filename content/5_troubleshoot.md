@@ -19,7 +19,7 @@ ggplot(iris, aes(x=Petal.Length, y=Petal.Width))+
 </div>
 
 Copy/paste the error in ChatGPT
-<em>Error in ggplot(iris, aes(x = Petal.Length, y = Petal.Width)) : could not find function "ggplot"</em>
+<span style="color: red;"><em>Error in ggplot(iris, aes(x = Petal.Length, y = Petal.Width)) : could not find function "ggplot"</em></span>
 
 Look over the answer and see what the fix here. Here, the issue is that `ggplot2` is not installed and/or loaded. 
 
@@ -29,18 +29,44 @@ Look over the answer and see what the fix here. Here, the issue is that `ggplot2
 
 Try the fix and see if it works. 
 
-## File or variable not found
+## Other common errors that ChatGPT can help with 
+### Object not found 
+Example, you are asking R to use a dataframe that has not yet been imported into R. 
 
-test with lm model
+### Code syntax incorrect
+Things like typos or missing parts of the code needed to run something. 
 
-## Code syntax incorrect
+### Data format incorrect 
+For example, the data need to be in a matrix form, but they are a currently dataframe. 
 
-space in name
-
-## Data format incorrect 
-
-data categorial when should be numeric
 
 ## Need help undertsanding code
+Chat GPT is very good at explaining what the code is doing. For example, pretend your coworker sent you code for a for loop that you have never seen before, and it has no comments!!! What a cardinal coding sin. ChatGPT can help: 
 
-ask for help
+```
+top.df = NULL
+
+grouplist = c(unique(all.df$taxaplot_group))
+
+for(i in grouplist) {
+  for(j in i) {
+
+    sample = subset(sorted, sorted$taxaplot_group %in% c(j))
+
+    top = sample[c(1:5),]
+
+    t.tmp <- top
+    t.tmp$which_group = j
+    top.df <- rbind.fill(top.df, t.tmp)
+
+  }
+}
+```
+<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
+<img src="images/explain.png" alt="Explaning code" width="70%"/>
+</div>
+ChatGPT wil also suggest how to improve code, which may of may not be important or relevant. This is more of a good to know for more advanced coders. 
+<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
+<img src="images/suggest.png" alt="suggesting code imporvements" width="70%"/>
+</div>
+
