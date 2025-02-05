@@ -12,6 +12,6 @@ This workshop was created by Siobhan Schenk (GAA)
 
 Description:
 
-Want to learn about ChatGPT over your coffee break? We are offering a series of 15-minute workshops about data analysis with ChatGPT. 
+Want to learn about how to code with ChatGPT over your coffee break? We are offering a series of 30-minute workshops about data analysis with ChatGPT. 
 The first workshop explains how large language models work in non-technical terms, which sets you up for success in the next workshops, where we practice different elements of data analysis with ChatGPT. 
 This workshop series focuses on R, but the concepts presented here are applicable to coding with Python and data analysis in SPSS and Excel.   
