@@ -21,7 +21,6 @@ nav_order: 1
   <li>Breakdown: Overview of how to ask ChatGPT for R coding help.</li>
   <li>Dummy Data: Why dummy data are useful and practice making them.</li>
   <li>Code Build Practice: Using ChatGPT to run a new analysis in R.</li>
-  <li>Troubleshooting: Using AI to troubleshoot errors in code</li>
   <li>TBD: <em>Let us know what you want!! </em></li>
 </ol>
 
