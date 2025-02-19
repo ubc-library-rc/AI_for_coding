@@ -4,6 +4,11 @@ layout: default
 nav_order: 5
 has_toc: T
 ---
+## Topic Summary
+To best use a tool, it is critical to understand how it works. In this first workshop of the AI series, we explain how LLMs, like ChatGPT work in a non-technical way to help you use them more effectively. 
+
+## Learning Objectives
+
 
 ## Overview of what it means to “train a model”
 The library has a detailed <a href="https://ubc-library-rc.github.io/llm/" target="_blank">workshop about LLM</a>, so for this workshop we are not going to get very technical. The very simplified version of training a model is that there are two steps:
@@ -22,7 +27,7 @@ That's right, youre predicting what is going to come next based on previous data
 <p>That's very cool! But, this should cause you to pause. You are wrong sometimes, even with the people you know best (partern, best friend, kids,...). LLM can be wrong too. This is a major concern when using LLM, or any AI tools for that matter.</p>
 
 ## How to get factually correct answers
-<p>In LLM speak, <em>mistakes</em> are often called halluciations. They occur because the LLM outputs the best answer possible, but has not sufficient data to provide a factually correct answer. </p>
+<p>In LLM speak, <em>mistakes</em> are often called hallucinations. They occur because the LLM outputs the best answer possible, but has not sufficient data to provide a factually correct answer. </p>
 
 ### Ask for sources
 ChatGPT has a way to turn on sources. Click on the globe (circled in blue) before submitting your query.
@@ -56,4 +61,7 @@ The LLM is always learning. How? By using user input. You can tell ChatGPT if it
 
 ### Environemental
 <a href="https://www.mdpi.com/2071-1050/14/9/5172" target="_blank">LLM are very resource intensive to train and run</a>. Between the materials used to construct the big datacentres, the electricity to keep them running, and the freshwater to cool the data centres, that's a lot of resource use! This does not mean that we should not use LLM and other AIs, but it means we need to use them efficiently and with purpose. 
+
+## Key terms (Glossary)
+
 
