@@ -20,7 +20,8 @@ Because of data privacy, can’t always upload data to AIs, but being able to do
 The most useful fake datasets have a few qualities.
 1.	Small
 2.	Big differences between treatment groups (to see the difference easily in plots and guarantee a significant result when testing statistical models)
-3.	Similar to what your real data look like. For example if your data have three treatment groups that were measured on two different days, your fake data should also have this. Fake data should also replicate the structure of your data. So if your real data have measurements for each day in different columns, your fake data should also have that structure. 
+3.	Similar to what your real data look like. For example if your data have three treatment groups that were measured on two different days, your fake data should also have this. Fake data should also replicate the <strong>structure of your data</strong>. So if your real data have measurements for each day in different columns, your fake data should also have that structure. The <strong>data type</strong> in your dummy data should also be the same as your real data. For example, if a column in your data are numeric, the dummy data should also be numeric. 
+
 ### Let's make one!
 #### in R
 
@@ -58,3 +59,8 @@ Upload the data to ChatGPT (button circled in blue) and ask it for summary stats
 </div>
 
 # Data Privacy
+
+## Glossary
+|Data type|The kind of data in your dataset. For example, numbers are numeric data and letters are character data.|
+|Data structures|Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.|
+|Dummy data|A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.|
