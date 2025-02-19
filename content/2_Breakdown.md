@@ -57,8 +57,12 @@ Remember, the AI is not reasoning, so ask it for sources and evaluate if the out
 
 
 ## Glossary 
-|Data structures|Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.|
-|Prompt|Text input you give the LLM.|
+<ol type="1">
+<li>Data structures: Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.</li>
+<li>Prompt: Text input you give the LLM.</li>
+</ol>
+
+
 
 
 
