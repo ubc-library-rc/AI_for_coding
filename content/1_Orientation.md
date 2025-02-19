@@ -9,6 +9,8 @@ To best use a tool, it is critical to understand how it works. In this first wor
 
 ## Learning Objectives
 
+## Where is ChatGPT?
+ChatGPT is a Large Language Model (LLM) that is available online. Just like any website, you need to be connected to the internet to use it. 
 
 ## Overview of what it means to “train a model”
 The library has a detailed <a href="https://ubc-library-rc.github.io/llm/" target="_blank">workshop about LLM</a>, so for this workshop we are not going to get very technical. The very simplified version of training a model is that there are two steps:
