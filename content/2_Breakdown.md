@@ -4,8 +4,15 @@ layout: default
 nav_order: 6
 has_toc: T
 ---
+## Topic Summary
+We learn how to use ChatGPT to better understand exiting code and how to generate new code. 
+
+## Learning Objectives
+
+
 ## Ask the AI for help
 AI can help with a lot, but today we focus on coding. Specifically, how to ask questions to get good, complete, answers/code from the AI.
+In "AI speak", a question/text input you ask/give the AI is called a prompt. 
 
 ### AI can explain code to you
 Paste in some code in ChatGPT and ask it to explain what the code means. Let's try with this code:
@@ -16,6 +23,9 @@ ggplot(mtcars, aes(x=cyl, y=mpg))+
   geom_point()
 
 ```
+#### Note about LLM explanations
+LLMs are text generators, so when you ask them to explain something, then generate text that explains the concepts you asked about. However, LLMs do not <em>understand</em> the output, this is a small but important distinction. This means that if the answer seems superficial and not fully satisfactory, that’s because it is. You can ask the LLM to re-phrase or re-explain, but at some point, it might be better to go look at content written by a human. 
+
 ### AI can write code for you
 ChatGPT and other AI models are often text generators. Code is text, so it is well within their capabilities to code for you (most of the time). However, if we recall from last week, how questions are worded is very important as it affects the quality and completeness of the answer the AI generates. 
 In this section, we learn how to talk to the AI to get the best possible answer. 
@@ -44,6 +54,9 @@ When you input data (usually text) in ChatGPT, the text is converted to a format
 Remember, the AI is not reasoning, so ask it for sources and evaluate if the output you get from the analysis makes sense with what you were expecting from your data. Having dummy (fake) datasets where you know the outcome are a great way to test if the code you got makes sense (next week's workshop).
 
 
+## Glossary 
+|Data types|Shapes/formats the data are in. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.|
+|Prompt|Text input you give the LLM.|
 
 
 
