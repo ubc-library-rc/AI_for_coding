@@ -47,6 +47,8 @@ Something more serious, asking ChatGPT how to run an ANOVA in R.
 ## Translate the steps into prompts
 Each part of the response to the ANOVA prompt is numbered into steps. You can ask ChatGPT to help you with each part individually. 
 Remember, asking multiple questions at once lead to the AI ignoring parts of the prompt, so asking for small parts of the end result is the best way to get a complete answer. 
+### Important terminology
+You will notice in the output that there are words like "dataframe". The output from ChatGPT is a very good place to find the terms you need to know/understand as part of your analysis. 
 
 ## Notes about speaking to the AI
 When you input data (usually text) in ChatGPT, the text is converted to a format the AI can understand. This sometimes leads to the AI not understanding the issue, because the issue gets formatted out. This seems to be getting rarer as the AI improves. 
@@ -55,7 +57,7 @@ Remember, the AI is not reasoning, so ask it for sources and evaluate if the out
 
 
 ## Glossary 
-|Data types|Shapes/formats the data are in. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.|
+|Data structures|Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.|
 |Prompt|Text input you give the LLM.|
 
 
