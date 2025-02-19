@@ -1,5 +1,5 @@
 ---
-title: 5. Glossary
+title: Glossary
 layout: default
 nav_order: 10
 has_toc: T
