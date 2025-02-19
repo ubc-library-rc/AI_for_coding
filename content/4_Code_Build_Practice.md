@@ -1,5 +1,5 @@
 ---
-title: 4. Generating and checking (analysis run-through)
+title: 4. Coding with ChatGPT
 layout: default
 nav_order: 8
 has_toc: T
