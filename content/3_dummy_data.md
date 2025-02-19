@@ -13,7 +13,7 @@ We learn about why dummy data is more practical and less risky in most situation
 # Dummy Data
 
 ## Why make dummy data
-Because of data privacy, can’t always upload data to AIs, but being able to do this is helpful when troubleshooting code or just building an analysis. In addition, having fake data to work with allows you to know the results of statistical tests, which is always a good way to check code. 
+Because of data privacy, can’t always upload data to AIs, but being able to do this is helpful when troubleshooting code or just building an analysis. Advanced coders use dummy data all the time. In addition, having fake data to work with allows you to know the results of statistical tests, which is always a good way to check code. 
 
 ## Making a dummy dataset
 ### What makes a good dummy dataset
