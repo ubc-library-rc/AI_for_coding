@@ -18,9 +18,9 @@ nav_order: 1
 ## Workshops
 <ol type="1">
   <li>Orientation: How do LLM work and how to get good answers from LLM.</li>
-  <li>Breakdown: Overview of how to ask ChatGPT for R coding help.</li>
-  <li>Dummy Data: Why dummy data are useful and practice making them.</li>
-  <li>Code Build Practice: Using ChatGPT to run a new analysis in R.</li>
+  <li>Breakdown: How to ask ChatGPT for help.</li>
+  <li>Dummy Data and Privacy: Why dummy data are useful and practice making them.</li>
+  <li>Coding with ChatGPT: Using ChatGPT to run a new analysis in R.</li>
   <li>TBD: <em>Let us know what you want!! </em></li>
 </ol>
 
