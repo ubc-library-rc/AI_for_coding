@@ -4,9 +4,11 @@ layout: default
 nav_order: 8
 has_toc: T
 ---
-
+## Topic Summary
 Now that we have learned a few skills to interact with LLMs more effectively in the previous workshops, it is time to put it all together.
 We will work through how to run a t-test in R.
+
+## Learning Objectives
 
 ## Ask for help (Breakdown workshop)
 Ask the AI “what are the steps by step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps.
