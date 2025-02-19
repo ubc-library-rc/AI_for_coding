@@ -4,6 +4,12 @@ layout: default
 nav_order: 7
 has_toc: T
 ---
+
+## Topic Summary
+We learn about why dummy data is more practical and less risky in most situations. We also go over how to make dummy data, so you feel empowered to make some when the time comes. 
+
+## Learning Objectives
+
 # Dummy Data
 
 ## Why make dummy data
@@ -18,7 +24,7 @@ The most useful fake datasets have a few qualities.
 ### Let's make one!
 #### in R
 
-An example of making a dummy dataframe in R. This is the way to go if you have more complex data structures. 
+An example of making a dummy dataframe in R. <strong>This is the way to go if you have more complex data structures.</strong> Make sure that the format you save the summy data in is the same as your real data. 
 ```
 
 ## make vectors
@@ -42,8 +48,8 @@ write.csv(run_train, “run_train.csv”)
 </div>
 
 #### In Excel
-This is the way to go if you have simple data structures and/or are not comfortable with coding. 
-Write out the values in an Excel document and save it.
+<strong>This is the way to go if you have simple data structures </strong>. 
+Write out the values in an Excel document and save it in the same format that your real data are in.
 
 ## Upload the dummy data to ChatGPT
 Upload the data to ChatGPT (button circled in blue) and ask it for summary stats. 
