@@ -65,9 +65,11 @@ The LLM is always learning. How? By using user input. You can tell ChatGPT if it
 <a href="https://www.mdpi.com/2071-1050/14/9/5172" target="_blank">LLM are very resource intensive to train and run</a>. Between the materials used to construct the big datacentres, the electricity to keep them running, and the freshwater to cool the data centres, that's a lot of resource use! This does not mean that we should not use LLM and other AIs, but it means we need to use them efficiently and with purpose. 
 
 ## Key terms (Glossary)
-| Hallucinations | Mistakes made by the LLM. Factually incorrect answers. |
-| Large Language Model (LLM) | A large computer model that outputs text (language) based on past experiences (training data). |
-| Training Data | Data used to make the LLM. This is what ChatGPT crawls the web for. |
-| Testing Data | Data that is used to test the accuracy of the LLM. |
+<ol type="1">
+  <li>Hallucinations: Mistakes made by the LLM. Factually incorrect answers.</li>
+  <li>Large Language Model (LLM): A large computer model that outputs text (language) based on past experiences (training data).</li>
+  <li>Training Data: Data used to make the LLM. This is what ChatGPT crawls the web for.</li>
+  <li>Testing Data: Data that is used to test the accuracy of the LLM.</li>
+</ol>
 
 
