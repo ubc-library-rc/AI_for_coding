@@ -1,9 +1,10 @@
 ---
-title: 3. Making a dummy dataset
+title: 3. Dummy data and privacy
 layout: default
 nav_order: 7
 has_toc: T
 ---
+# Dummy Data
 
 ## Why make dummy data
 Because of data privacy, can’t always upload data to AIs, but being able to do this is helpful when troubleshooting code or just building an analysis. In addition, having fake data to work with allows you to know the results of statistical tests, which is always a good way to check code. 
@@ -21,10 +22,12 @@ An example of making a dummy dataframe in R. This is the way to go if you have m
 ```
 
 ## make vectors
-patient_id = c("1", "2", "3", "4", "5", "1", "2", "3", "4", "5")
-day = c("1", "1","1","1","1","2","2","2","2","2")
+patient_id = c("1", "2", "3", "4", "5",
+              "1", "2", "3", "4", "5")
+day = c("1", "1","1","1","1",
+        "2","2","2","2","2")
 distance_ran = c("400", "350", "351", "410", "310", 
-                 "600", "525", "526.5", "615", "465") # distances for day 2 all 1.5 x day 1 values
+                 "6000", "5250", "5265", "6150", "4650") # distances for day 2 all 15 x day 1 values
 
 ## make a dataframe
 run_train = data.frame(patient_id, day, distance_ran)
@@ -47,3 +50,5 @@ Upload the data to ChatGPT (button circled in blue) and ask it for summary stats
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/chat_upload.png" alt="showing where the upload button is" width="50%"/>
 </div>
+
+# Data Privacy
