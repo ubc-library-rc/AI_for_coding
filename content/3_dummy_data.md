@@ -61,6 +61,6 @@ Upload the data to ChatGPT (button circled in blue) and ask it for summary stats
 # Data Privacy
 
 ## Glossary
-|Data type|The kind of data in your dataset. For example, numbers are numeric data and letters are character data.|
-|Data structures|Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.|
+|Data type|The kind of data in your dataset. For example, numbers are numeric data and letters are character data.| 
+|Data structures|Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.| 
 |Dummy data|A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.|
