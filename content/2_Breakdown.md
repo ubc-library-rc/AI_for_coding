@@ -11,7 +11,7 @@ We learn how to use ChatGPT to better understand exiting code and how to generat
 
 
 ## Ask the AI for help
-AI can help with a lot, but today we focus on coding. Specifically, how to ask questions to get good, complete, answers/code from the AI.
+AI can help with a lot, but today we focus on help with coding. Specifically, how to ask questions to get good, complete, answers or code from the AI.
 In "AI speak", a question/text input you ask/give the AI is called a prompt. 
 
 ### AI can explain code to you
@@ -24,10 +24,10 @@ ggplot(mtcars, aes(x=cyl, y=mpg))+
 
 ```
 #### Note about LLM explanations
-LLMs are text generators, so when you ask them to explain something, then generate text that explains the concepts you asked about. However, LLMs do not <em>understand</em> the output, this is a small but important distinction. This means that if the answer seems superficial and not fully satisfactory, that’s because it is. You can ask the LLM to re-phrase or re-explain, but at some point, it might be better to go look at content written by a human. 
+LLMs are text generators, so when you ask them to explain something, they generate text that explains the concepts you asked about. However, LLMs do not <em>understand</em> the output. This is a small, but important distinction. It means that if the answer seems superficial and not fully satisfactory, that’s because it is. You can ask the LLM to re-phrase or re-explain, but at some point, it might be better to go look at content written by a human. 
 
 ### AI can write code for you
-ChatGPT and other AI models are often text generators. Code is text, so it is well within their capabilities to code for you (most of the time). However, if we recall from last week, how questions are worded is very important as it affects the quality and completeness of the answer the AI generates. 
+ChatGPT and other AI models are often text generators. Code is text, so it is well within their capabilities to code for you (most of the time). However, if we recall from last week, how questions are worded is very important, as it affects the quality and completeness of the answer the AI generates. 
 In this section, we learn how to talk to the AI to get the best possible answer. 
 
 #### Breakdown the analysis into steps: Steps to make a sandwich
@@ -46,19 +46,19 @@ Something more serious, asking ChatGPT how to run an ANOVA in R.
 
 ## Translate the steps into prompts
 Each part of the response to the ANOVA prompt is numbered into steps. You can ask ChatGPT to help you with each part individually. 
-Remember, asking multiple questions at once lead to the AI ignoring parts of the prompt, so asking for small parts of the end result is the best way to get a complete answer. 
+Remember, asking multiple questions at once leads the AI to ignore parts of the prompt, so asking for small parts of the end result is the best way to get a complete answer. 
 ### Important terminology
-You will notice in the output that there are words like "dataframe". The output from ChatGPT is a very good place to find the terms you need to know/understand as part of your analysis. 
+You will notice in the output that there are words like "dataframe". The output from ChatGPT is a very good place to find the terms you need to know and understand as part of your analysis. 
 
 ## Notes about speaking to the AI
 When you input data (usually text) in ChatGPT, the text is converted to a format the AI can understand. This sometimes leads to the AI not understanding the issue, because the issue gets formatted out. This seems to be getting rarer as the AI improves. 
 
-Remember, the AI is not reasoning, so ask it for sources and evaluate if the output you get from the analysis makes sense with what you were expecting from your data. Having dummy (fake) datasets where you know the outcome are a great way to test if the code you got makes sense (next week's workshop).
+Remember, the AI is not reasoning, so ask it for sources and evaluate if the output you get from the analysis makes sense with what you were expecting from your data. Having dummy (fake) datasets where you know the outcome is a great way to test if your code makes sense (more on this in the next week's workshop).
 
 
 ## Glossary 
 <ol type="1">
-<li>Data structures: Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.</li>
+<li>Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
 <li>Prompt: Text input you give the LLM.</li>
 </ol>
 
