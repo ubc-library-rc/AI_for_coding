@@ -5,13 +5,13 @@ nav_order: 8
 has_toc: T
 ---
 ## Topic Summary
-Now that we have learned a few skills to interact with LLMs more effectively in the previous workshops, it is time to put it all together.
-We will work through how to run a t-test in R.
+Now that we have learned a few skills for interacting with LLMs more effectively in the previous workshops, it is time to put it all together.
+We will work through running a t-test in R.
 
 ## Learning Objectives
 
 ## Ask for help (Breakdown workshop)
-Ask the AI “what are the steps by step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps.
+Ask the AI: “What are the step-by-step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps.
 
 
 ## Upload data for ChatGPT to use (Dummy data workshop)
@@ -27,7 +27,7 @@ ChatGPT uses example data in the code, but using dummy data allows the generated
 </ol>
 
 ## Ask for step by step help
-Go through the step by step instructions we got earlier and as ChatGPT for help with each section, using your dummy data. Simultaneously, run the code yourself to see if the code ChatGPT has given you matches. This is the time to address errors that occur. 
+Go through the step-by-step instructions we got earlier and ask ChatGPT for help with each section, using your dummy data. Simultaneously, run the code yourself to see if the code ChatGPT has given you matches the desired outcome. This is the time to address errors that occur. 
 
 ## Sanity check
 Does the output make sense with your dummy data? 
