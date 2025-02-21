@@ -5,17 +5,20 @@ nav_order: 7
 has_toc: T
 ---
 
-## Topic Summary
-We learn about why dummy data is more practical and less risky in most situations. We also go over how to create dummy data, so you feel empowered to make some when the time comes. 
+# Dummy data and privacy
+ChatGPT collects all the information you feed it. We learn why using non-private dummy data is more practical and less risky in most situations. We also go over how to create dummy data, so you feel empowered to make some when the time comes. 
 
 ## Learning Objectives
+By the end of this session we hope you will:
 
-# Dummy Data
+- understand the privacy risks inherent in LLMs like ChatGPT
+- know how to create dummy data suitable for your project
 
-## Why make dummy data?
+## Dummy Data
+
+### Why make dummy data?
 Because of data privacy, we can’t always upload data to LLMs, but being able to do this is helpful when troubleshooting code or just building an analysis. Advanced coders use dummy data all the time. In addition, having fake data to work with allows you to know the results of statistical tests, which is always a good way to check code. 
 
-## Making a dummy dataset
 ### What makes a good dummy dataset
 The most useful fake datasets are typically:
 1.	Small
@@ -52,13 +55,13 @@ write.csv(run_train, “run_train.csv”)
 <strong>This is the way to go if you have simple data structures </strong>. 
 Write out the values in an Excel document and save it in the same format that your real data are in.
 
-## Upload the dummy data to ChatGPT
+### Upload the dummy data to ChatGPT
 Upload the data to ChatGPT (button circled in blue) and ask it for summary stats. 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/chat_upload.png" alt="showing where the upload button is" width="50%"/>
 </div>
 
-# Data Privacy
+## Data Privacy
 
 ## Glossary
 <ol type="1">

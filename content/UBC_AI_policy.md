@@ -5,8 +5,8 @@ nav_order: 11
 has_toc: T
 ---
 ## UBC AI rules
-<p>Professors will specify for each class or for their labs what AI usage is acceptable and that should be your main guidance, as long as it fits into the AI policies by UBC. </p>
-<p>UBC has a through explanation of what is and is not appropriate <a href=https://genai.ubc.ca/guidance/ target=”_blank”> here </a>, but we highlight a few key points from this website below.</p>
+Professors will specify for each class or for their labs what AI usage is acceptable and that should be your main guidance, as long as it fits into the AI policies by UBC. 
+UBC has a through explanation of what is and is not appropriate [here](https://genai.ubc.ca/guidance/){:target="_blank"}, but we highlight a few key points from this website below.
 
 ## Key points from the UBC GenAI website.
 ### Principles section

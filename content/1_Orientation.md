@@ -1,13 +1,17 @@
 ---
-title: 1. How do LLMs work
+title: 1. How do LLMs work?
 layout: default
 nav_order: 5
 has_toc: T
 ---
-## Topic Summary
-To best use a tool, it is critical to understand how it works. In this first workshop of the ChatGPT and Data Analysis Series, we explain how LLMs, like ChatGPT, work in a non-technical way to help you use them more effectively. 
+# How do LLMs work?
+To best use a tool, it is critical to understand how it works. In this first workshop of the _ChatGPT and Data Analysis_ series we use non-technical language to explain how Large Language Models (LLMs) like ChatGPT work, so you can use them more effectively. 
 
 ## Learning Objectives
+By the end of this session we hope you will:
+
+- have a conceptual understanding of how LLMs work
+- know how to access and engage with ChatGPT
 
 ## Where is ChatGPT?
 ChatGPT is a Large Language Model (LLM) that is available online. Just like any website, you need to be connected to the internet to use it. 

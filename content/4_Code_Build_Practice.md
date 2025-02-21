@@ -4,11 +4,16 @@ layout: default
 nav_order: 8
 has_toc: T
 ---
-## Topic Summary
-Now that we have learned a few skills for interacting with LLMs more effectively in the previous workshops, it is time to put it all together.
-We will work through running a t-test in R.
+# Coding with ChatGPT 
+Now that we have learned a few skills for interacting with LLMs more effectively in the previous sessions, it is time to put it all together.
+We will use ChatGPT to help us run a t-test in R.
 
 ## Learning Objectives
+By the end of this session we hope you will:
+
+- understand where ChatGPT can help in a data analysis workflow
+- feel confident using ChatGPT in your own coding tasks
+
 
 ## Ask for help (Breakdown workshop)
 Ask the AI: “What are the step-by-step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps.

@@ -4,10 +4,14 @@ layout: default
 nav_order: 6
 has_toc: T
 ---
-## Topic Summary
-We learn how to use ChatGPT to better understand exiting code and how to generate new code. 
+# How to ask for help 
+ChatGPT will answer almost any question but there are ways to produce more useful and constructive answers. In this session we learn how to use ChatGPT to better understand existing code and how to generate new code. 
 
 ## Learning Objectives
+By the end of this session we hope you will:
+
+- understand how ChatGPT can help interpret and write code for data analysis
+- appreciate the value of breaking your question into steps
 
 
 ## Ask the AI for help
