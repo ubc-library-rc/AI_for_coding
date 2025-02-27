@@ -33,7 +33,7 @@ That's right, you are predicting what is going to come next based on previous da
 <p>That's very cool! But, this should cause you to pause. You are also wrong sometimes, even with the people you know best (partners, best friends, kids,...). LLMs can be wrong too. This is a major concern when using LLMs, or any AI tools for that matter.</p>
 
 ## How to get factually correct answers
-<p>In LLM speak, <em>mistakes</em> are often called hallucinations. They occur because the LLM outputs the best answer possible, but has not sufficient data to provide a factually correct answer. </p>
+<p>In LLM speak, <em>mistakes</em> are often called <em>hallucinations</em>. They occur because the LLM outputs the best answer possible, but has insufficient data to provide a correct answer. </p>
 
 ### Ask for sources
 ChatGPT has a way to turn on sources. Click on the globe (circled in blue) before submitting your query.
