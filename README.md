@@ -1,8 +1,6 @@
 # AI for coding
 ### UBC Library Research Commons
 
-:heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:  
-
 This workshop is designed to give bite-sized overviews of how ChatGPT and other LLMs can help with various aspects of coding in R. These principles can be transferred to other coding languages. 
 Link to workshop: https://ubc-library-rc.github.io/AI_for_coding/
 
