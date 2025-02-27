@@ -26,11 +26,13 @@ The most useful fake datasets are typically:
 3.	Similar to what your real data look like. For example if your data have three treatment groups that were measured on two different days, your fake data should also have this. Fake data should also replicate the <strong>structure of your data</strong>. So if your real data have measurements for each day in different columns, your fake data should also have that structure. The <strong>data type</strong> in your dummy data should also be the same as your real data. For example, if the data in your columns are numeric, the dummy data should also be numeric. 
 
 ### Let's make one!
+
+<a href="https://github.com/ubc-library-rc/AI_for_coding/blob/main/content/run_train.csv" target="_blank">Dummy data file here</a>
+
 #### in R
 
 An example of making a dummy dataframe in R. <strong>This is the way to go if you have more complex data structures.</strong> Make sure that the format in which you save the dummy data is the same as your real data. 
 ```
-
 ## make vectors
 patient_id = c("1", "2", "3", "4", "5",
               "1", "2", "3", "4", "5")
@@ -43,7 +45,7 @@ distance_ran = c("400", "350", "351", "410", "310",
 run_train = data.frame(patient_id, day, distance_ran)
 
 ## can then save as a .csv file that can be uploaded to ChatGPT
-write.csv(run_train, “run_train.csv”)
+write.csv(run_train, "run_train.csv", row.names=F)
 
 ```
 
