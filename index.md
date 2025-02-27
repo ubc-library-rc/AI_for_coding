@@ -4,8 +4,6 @@ title: Outline
 nav_order: 1
 ---
 
-## Note: this workshop is in development and not yet complete.
-
 <p>In this workshop series, we will go over skills that will help you use <a href="https://www.ibm.com/think/topics/large-language-models" target="_blank">Large Language Models (LLM)</a> to code more efficiently. 
 <a href="https://chatgpt.com/" target="_blank">ChatGPT</a> is an LLM, but others include 
   <a href="https://gemini.google.com/" target="_blank">Gemini</a> and 
