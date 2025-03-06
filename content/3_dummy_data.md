@@ -14,6 +14,15 @@ By the end of this session we hope you will:
 - understand the privacy risks inherent in LLMs like ChatGPT
 - know how to create dummy data suitable for your project
 
+## Data Privacy
+The major issue around privacy for LLM is that they take user input and incorporate it into the model. Here, we emphasize an example of a concern that arises as a consequence of the data ingestion of LLM for confidential and non-confidential data.  
+
+### Confidential data
+Patient records and Indigenous knowledge are examples of data that are confidential and should never be uploaded to LLM. These data need to be handled with care in terms of stage and who has access to the raw data, so clearly, they should not be uploaded to LLM.
+
+### Non-confidential data
+These data include data that would be made public anyways. For example, water temperature measurements that would be published along with a manuscript. Although these data do not pose the same privacy concerns as confidential data, feeding these data into LLM means that the model will use your data and will have no way of “knowing” where the data are from, so you won’t get credit for your work. 
+
 ## Dummy Data
 
 ### Why make dummy data?
@@ -63,7 +72,6 @@ Upload the data to ChatGPT (button circled in blue) and ask it for summary stats
 <img src="images/chat_upload.png" alt="showing where the upload button is" width="50%"/>
 </div>
 
-## Data Privacy
 
 ## Glossary
 <ol type="1">
