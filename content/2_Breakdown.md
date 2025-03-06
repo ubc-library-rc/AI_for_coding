@@ -5,9 +5,11 @@ nav_order: 6
 has_toc: T
 ---
 # When is asking AI for help appropriate? 
-Here is a flowchart by Aleksandr Tiulkanov about when AI use is appropriate
+Here is a flowchart by <a href="https://www.linkedin.com/posts/tyulkanov_a-simple-algorithm-to-decide-whether-to-use-activity-7021766139605078016-x8Q9/" target="_blank">Aleksandr Tiulkanov</a> about when AI use is appropriate
 
-
+<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
+<img src="images/flow.jpg" alt="flowchart about when to use AI" width="50%"/>
+</div>
 
 
 
