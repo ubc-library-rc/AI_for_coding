@@ -15,14 +15,14 @@ By the end of this session we hope you will:
 - feel confident using ChatGPT in your own coding tasks
 
 
-## Ask for help (Breakdown workshop)
+## Ask for help (<a href="https://ubc-library-rc.github.io/AI_for_coding/content/2_Breakdown.html" target="_blank">Breakdown workshop</a>)
 Ask the AI: “What are the step-by-step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps.
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/t-test_steps.png" alt="start of steps to run a t-test" width="60%"/>
 </div>
 
-## Upload data for ChatGPT to use (Dummy data workshop)
+## Upload data for ChatGPT to use (<a href="https://ubc-library-rc.github.io/AI_for_coding/content/3_dummy_data.html" target="_blank">Dummy data workshop</a>)
 ChatGPT uses example data in the code, but using dummy data allows the generated code to use the variable names in your dataset, so you won't need to edit the code when copy/pasting it from the response. 
 <ol type="1">
 <li>Make a dummy dataset (<a href="https://ubc-library-rc.github.io/AI_for_coding/content/3_dummy_data.html" target="_blank">Dummy data and Privacy page</a>). Let’s make one with two columns:
