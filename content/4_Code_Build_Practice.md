@@ -8,7 +8,6 @@ has_toc: T
 Now that we have learned a few skills for interacting with LLMs more effectively in the previous sessions, it is time to put it all together.
 We will use ChatGPT to help us run a t-test in R.
 
-## Learning Objectives
 By the end of this session we hope you will:
 
 - understand where ChatGPT can help in a data analysis workflow

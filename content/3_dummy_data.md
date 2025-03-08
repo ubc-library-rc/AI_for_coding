@@ -8,7 +8,6 @@ has_toc: T
 # Dummy data and privacy
 ChatGPT collects all the information you feed it. We learn why using non-private dummy data is more practical and less risky in most situations. We also go over how to create dummy data, so you feel empowered to make some when the time comes. 
 
-## Learning Objectives
 By the end of this session we hope you will:
 
 - understand the privacy risks inherent in LLMs like ChatGPT

@@ -7,7 +7,6 @@ has_toc: T
 # How do LLMs work?
 To best use a tool, it is critical to understand how it works. In this first workshop of the _ChatGPT and Data Analysis_ series we use non-technical language to explain how Large Language Models (LLMs) like ChatGPT work, so you can use them more effectively. 
 
-## Learning Objectives
 By the end of this session we hope you will:
 
 - have a conceptual understanding of how LLMs work
@@ -70,10 +69,10 @@ The LLM is always learning. How? By using user input. You can tell ChatGPT if it
 
 ## Key terms (Glossary)
 <ol type="1">
-  <li>Hallucinations: Mistakes made by the LLM. Factually incorrect answers.</li>
-  <li>Large Language Model (LLM): A large computer model that outputs text (language) based on past experiences (training data).</li>
-  <li>Training Data: Data used to make the LLM. This is what ChatGPT crawls the web for.</li>
-  <li>Testing Data: Data that is used to test the accuracy of the LLM.</li>
+  <li><b>Hallucinations</b>: Mistakes made by the LLM. Factually incorrect answers.</li>
+  <li><b>Large Language Model (LLM)</b>: A large computer model that outputs text (language) based on past experiences (training data).</li>
+  <li><b>Training Data</b>: Data used to make the LLM. This is what ChatGPT crawls the web for.</li>
+  <li><b>Testing Data</b>: Data that is used to test the accuracy of the LLM.</li>
 </ol>
 
 

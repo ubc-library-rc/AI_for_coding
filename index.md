@@ -20,11 +20,8 @@ nav_order: 1
 <p>Each workshop is designed to start with 15 minutes of teaching, followed by 15 minutes to ask questions or work on practice problems. </p>
 
 ## Workshops
-<ol type="1">
-  <li><a href="https://ubc-library-rc.github.io/AI_for_coding/content/1_Orientation.html" target=_blank">Orientation: How do LLM work?.</a></li>
-  <li><a href="https://ubc-library-rc.github.io/AI_for_coding/content/2_Breakdown.html" target=_blank">Breakdown: How to ask for help.</a></li>
-  <li><a href="https://ubc-library-rc.github.io/AI_for_coding/content/3_dummy_data.html" target=_blank">Dummy Data and Privacy.</a></li>
-  <li><a href="https://ubc-library-rc.github.io/AI_for_coding/content/4_Code_Build_Practice.html" target=_blank">Coding with ChatGPT.</a></li>
-  <li>TBD: <em>Let us know what you want!! </em></li>
-</ol>
-
+1. [Orientation: How do LLMs work?](https://ubc-library-rc.github.io/AI_for_coding/content/1_Orientation.html)
+2. [Breakdown: How to ask for help](https://ubc-library-rc.github.io/AI_for_coding/content/2_Breakdown.html)
+3. [Dummy Data and Privacy](https://ubc-library-rc.github.io/AI_for_coding/content/3_dummy_data.html)
+4. [Coding with ChatGPT](https://ubc-library-rc.github.io/AI_for_coding/content/4_Code_Build_Practice.html)
+5. TBD: _Let us know what you want!!_

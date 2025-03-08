@@ -4,23 +4,23 @@ layout: default
 nav_order: 6
 has_toc: T
 ---
-# When is asking AI for help appropriate? 
-Here is a flowchart by <a href="https://www.linkedin.com/posts/tyulkanov_a-simple-algorithm-to-decide-whether-to-use-activity-7021766139605078016-x8Q9/" target="_blank">Aleksandr Tiulkanov</a> about when AI use is appropriate
-
-<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/flow.jpg" alt="flowchart about when to use AI" width="50%"/>
-</div>
-
 
 
 # How to ask for help 
 ChatGPT will answer almost any question but there are ways to produce more useful and constructive answers. In this session we learn how to use ChatGPT to better understand existing code and how to generate new code. 
 
-## Learning Objectives
 By the end of this session we hope you will:
 
 - understand how ChatGPT can help interpret and write code for data analysis
 - appreciate the value of breaking your question into steps
+
+
+## When is asking AI for help appropriate? 
+Here is a flowchart by <a href="https://www.linkedin.com/posts/tyulkanov_a-simple-algorithm-to-decide-whether-to-use-activity-7021766139605078016-x8Q9/" target="_blank">Aleksandr Tiulkanov</a> about when AI use is appropriate
+
+<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
+<img src="images/flow.jpg" alt="flowchart about when to use AI" width="50%"/>
+</div>
 
 
 ## Ask the AI for help
