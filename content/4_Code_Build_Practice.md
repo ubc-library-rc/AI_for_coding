@@ -15,7 +15,7 @@ By the end of this session we hope you will:
 
 
 ## Ask for help (<a href="https://ubc-library-rc.github.io/AI_for_coding/content/2_Breakdown.html" target="_blank">Breakdown workshop</a>)
-Ask the AI (prompt the AI): “What are the step-by-step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps. A t-test is a statistical test to compare the mean of 2 groups. 
+Ask the AI (prompt the AI): “What are the step-by-step instructions to run a two-sample t-test in R”? A t-test is a statistical test to compare the mean of 2 groups. Ask for sources and note down the steps.
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/t-test_steps.png" alt="start of steps to run a t-test" width="60%"/>
