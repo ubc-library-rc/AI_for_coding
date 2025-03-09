@@ -15,7 +15,7 @@ By the end of this session we hope you will:
 
 
 ## Ask for help (<a href="https://ubc-library-rc.github.io/AI_for_coding/content/2_Breakdown.html" target="_blank">Breakdown workshop</a>)
-Ask the AI: “What are the step-by-step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps.
+Ask the AI (prompt the AI): “What are the step-by-step instructions to run a two-sample t-test in R”? Ask for sources and note down the steps.
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/t-test_steps.png" alt="start of steps to run a t-test" width="60%"/>
@@ -84,4 +84,11 @@ t.test(group1$run_speed, group2$run_speed)
 
 ## Sanity check
 Does the output make sense with your dummy data? In the case of run speed, it makes sense that the two groups are different because we made our data that way. 
+
+## Glossary
+Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary,/a>, but we list a few key terms form this page below:
+<ol type="1">
+  <li>Dummy data: A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.</li>
+  <li>Prompt: Text input you give the LLM.</li>
+</ol>
 
