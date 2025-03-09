@@ -73,6 +73,8 @@ Upload the data to ChatGPT (button circled in blue) and ask it for summary stats
 
 
 ## Glossary
+Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary,/a>, but we list a few key terms form this page below:
+
 <ol type="1">
  <li>Data type: The kind of data in your dataset. For example, numbers are numeric data, and letters are character data.</li> 
 <li>Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
