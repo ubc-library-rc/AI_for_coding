@@ -51,7 +51,7 @@ Let's ask ChatGPT how to make a sandwich. You can specify preferences, like we d
 </div>
 
 #### Breakdown the analysis into steps: Steps to run an analysis of variance (ANOVA)
-Something more serious, asking ChatGPT how to run an ANOVA in R.
+Something more serious, asking ChatGPT how to run an ANOVA in R.ANOVA stands for <strong>an</strong>alysis <strong>o</strong>f <strong>va</strong>riance. It is a statistical test to compare the mean of more than 2 groups. 
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/ANOVA.png" alt="ANOVA steps" width="50%"/>
