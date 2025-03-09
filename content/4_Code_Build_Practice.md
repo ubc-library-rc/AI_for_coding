@@ -86,7 +86,7 @@ t.test(group1$run_speed, group2$run_speed)
 Does the output make sense with your dummy data? In the case of run speed, it makes sense that the two groups are different because we made our data that way. 
 
 ## Glossary
-Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary,/a>, but we list a few key terms form this page below:
+Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>, but we list a few key terms form this page below:
 <ol type="1">
   <li>Dummy data: A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.</li>
   <li>Prompt: Text input you give the LLM.</li>
