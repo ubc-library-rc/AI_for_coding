@@ -14,7 +14,7 @@ By the end of this session we hope you will:
 - know how to create dummy data suitable for your project
 
 ## Data Privacy
-The major issue around privacy for LLM is that they take user input and incorporate it into the model. Here, we emphasize an example of a concern that arises as a consequence of the data ingestion of LLM for confidential and non-confidential data.  
+The major issue around privacy for LLMs is that they take user input and incorporate it into the model. Here, we emphasize an example of concern that arises as a consequence of data ingestion in LLM for confidential and non-confidential data.  
 
 ### Confidential data
 Patient records and Indigenous knowledge are examples of data that are confidential and should never be uploaded to LLM. These data need to be handled with care in terms of stage and who has access to the raw data, so clearly, they should not be uploaded to LLM.
