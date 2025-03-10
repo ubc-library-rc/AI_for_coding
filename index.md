@@ -17,7 +17,7 @@ nav_order: 1
 
 <p>Each workshop builds a single skill, so feel free to attend them in a series or to target particular areas where you need more assistance. </p>
 
-<p>Each workshop is designed to start with 15 minutes of teaching, followed by 15 minutes to ask questions or work on practice problems. </p>
+<p>Each workshop is designed to start with 15 minutes of teaching, followed by 15 minutes of questions and/or working on practice problems. </p>
 
 ## Workshops
 1. [Orientation: How do LLMs work?](https://ubc-library-rc.github.io/AI_for_coding/content/1_Orientation.html)
