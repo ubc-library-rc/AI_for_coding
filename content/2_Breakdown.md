@@ -6,7 +6,7 @@ has_toc: T
 ---
 
 
-# How to ask for help 
+# How to ask for help? 
 ChatGPT will answer almost any question but there are ways to produce more useful and constructive answers. In this session we learn how to use ChatGPT to better understand existing code and how to generate new code. 
 
 By the end of this session we hope you will:
