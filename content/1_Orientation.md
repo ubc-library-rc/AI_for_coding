@@ -13,7 +13,7 @@ By the end of this session we hope you will:
 - know how to access and engage with ChatGPT
 
 ## Where is ChatGPT?
-ChatGPT is a Large Language Model (LLM) that is available online. Just like any website, you need to be connected to the internet to use it. 
+ChatGPT is a Large Language Model (LLM) that is <a href="https://chatgpt.com/" target="_blank">available online,/a>. Just like any website, you need to be connected to the internet to use it. 
 
 ## Overview of what it means to “train a model”
 The library has a detailed <a href="https://ubc-library-rc.github.io/llm/" target="_blank">workshop about LLMs</a>, so for this workshop we are not going to get very technical. The very simplified version of training a model includes two steps:
@@ -27,9 +27,10 @@ Your brain is a very fancy LLM in a lot of ways. For example:
 <li>Have you ever finished someone's sentence for them? Does this happen more often when you know the person better?</li>
 <li>Can you tell how people are feeling? Are you much more accurate with people you know better?</li>
 </ol>
-That's right, you are predicting what is going to come next based on previous data (experience with that person). More and better data = better predictions.
+That's right, you are predicting what is going to come next based on previous data (experience with that person). More and better data = better predictions. In addition, humans can rely on more than just "data", "patterns", and "predictions" to shape and adjust their behavior. We rely on countext around this information to inform our actions. 
 
-<p>That's very cool! But, this should cause you to pause. You are also wrong sometimes, even with the people you know best (partners, best friends, kids,...). LLMs can be wrong too. This is a major concern when using LLMs, or any AI tools for that matter.</p>
+<p>That's very cool! But, this should cause you to pause. You are also wrong sometimes, even with the people you know best (partners, best friends, kids,...). </p>
+<p>LLMs can be wrong too. LLMs can be wrong because the model is wrong and/or because they are missing context. This is a major concern when using LLMs, or any AI tools for that matter.</p>
 
 ## How to get factually correct answers
 <p>In LLM speak, <em>mistakes</em> are often called <em>hallucinations</em>. They occur because the LLM outputs the best answer possible, but has insufficient data to provide a correct answer. </p>
@@ -58,8 +59,8 @@ The more targeted your question, the better the answer. For example:
 
 
 
-## Drawbacks
-Besides the mistakes LLM can make, there are also data privacy and environemental drawbacks.
+## Drawbacks directly related to coding
+Besides the mistakes LLM can make, there are also data privacy and environemental drawbacks. There are many other potential drawbacks that we don't touch on in this workshop series.
 
 ### Data Privacy
 The LLM is always learning. How? By using user input. You can tell ChatGPT if it did a good job (thumbs up or thumbs down), but it also collects the information you feed it. This means that you probably shouldn't upload confidential or priviledged information to any LLM. We will learn how to deal with this constraint in the Dummy Data workshop.
