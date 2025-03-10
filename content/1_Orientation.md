@@ -65,7 +65,7 @@ Besides the mistakes LLM can make, there are also data privacy and environementa
 The LLM is always learning. How? By using user input. You can tell ChatGPT if it did a good job (thumbs up or thumbs down), but it also collects the information you feed it. This means that you probably shouldn't upload confidential or priviledged information to any LLM. We will learn how to deal with this constraint in the Dummy Data workshop.
 
 ### Environemental
-<a href="https://www.mdpi.com/2071-1050/14/9/5172" target="_blank">LLMs are very resource-intensive to train and run</a>. Between the materials used to construct the big datacentres, the electricity to keep them running, and the fresh water to cool the data centres, that's a lot of resource use! This does not mean that we should not use LLMs and other AIs, but it means we need to use them efficiently and with purpose. 
+<a href="https://www.mdpi.com/2071-1050/14/9/5172" target="_blank">LLMs are very resource-intensive to train and run</a>. Between the materials used to construct the big datacentres, the electricity to keep them running, and the fresh water needed to cool them, that's a lot of resource use! This does not mean that we should not use LLMs and other AIs, but it means we need to use them efficiently and with purpose. 
 
 ## Glossary
 Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>, but we list a few key terms form this page below:
