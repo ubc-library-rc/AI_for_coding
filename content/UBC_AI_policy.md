@@ -23,6 +23,6 @@ Similarly to the principles section, don’t upload data to the LLM. For class, 
 <em>"GenAI has the potential to enrich teaching and learning activities, and some may also support inclusion and enhance accessibility, depending on how they are used... align with existing UBC policies, procedures, and legal requirements".</em></p>
 
 ### Academic integrity section
-UBC states that AI use is allowed in class, but only is explicitly allowed by the instructor. For instructors, the use of AI detection software is discouraged, as it has been shown to be inaccurate. AI detection software is so bad, that UBC has disabled the AI detection feature of Turnitin. 
+UBC states that AI use is allowed in class, but only if explicitly allowed by the instructor. For instructors, the use of AI detection software is discouraged, as it has been shown to be inaccurate. AI detection software is so bad, that UBC has disabled the AI detection feature of Turnitin. 
 <p><em>"Students may use GenAI in work submitted for courses or other academic requirements only if expressly permitted within their courses or programs."</em></p>
 <p><em>"Turnitin’s new AI-detection functionality is not available for use in any UBC course."</em></p>
