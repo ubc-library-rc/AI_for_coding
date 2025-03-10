@@ -24,4 +24,4 @@ nav_order: 1
 2. [Breakdown: How to ask for help](https://ubc-library-rc.github.io/AI_for_coding/content/2_Breakdown.html)
 3. [Dummy Data and Privacy](https://ubc-library-rc.github.io/AI_for_coding/content/3_dummy_data.html)
 4. [Coding with ChatGPT](https://ubc-library-rc.github.io/AI_for_coding/content/4_Code_Build_Practice.html)
-5. TBD: _Let us know what you want!!_
+5. TBD: _Let us know what you would like to learn!!_
