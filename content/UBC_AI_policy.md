@@ -7,7 +7,7 @@ has_toc: T
 On this page, we give a breif overview of the UBC policy towards AI use. We reccomend that you look at the website to see any potential updates by UBC and to make sure you are aware of all content that is most relevant to you, which may be different from what we present here.
 
 ## UBC AI rules
-Professors will specify for each class or for their labs what AI usage is acceptable and that should be your main guidance, as long as it fits into the AI policies by UBC. 
+Professors will specify for each class or lab what AI usage is acceptable and that should be your main guidance, as long as it fits into the AI policies by UBC. 
 UBC has a through explanation of what is and is not appropriate [here](https://genai.ubc.ca/guidance/){:target="_blank"}, but we highlight a few key points from this website below. Our summary is general in nature and we pulled out the elements form the UBC policy that are the most relevant to this workshop series. 
 
 ## Key points from the UBC GenAI website.
