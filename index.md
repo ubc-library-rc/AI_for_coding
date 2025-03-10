@@ -5,8 +5,8 @@ nav_order: 1
 ---
 ## Why did we make this workshop? 
 <p>AI tools are here and people are using them. </p>
-<p>When first learning how to code, there is a lot of new vocabulary to learn along with actually generating code that will get you the desired end result. This is difficult to do for everyone, but AI tools can help with some of this.</p>
-<p>In this workshop series, we aim to 1) help people who are uncomfortable using AI tools feel equipped to try them out and 2) to help experienced AI users examine how they could use AI tools more efficiently. </p>
+<p>When first learning how to code, there is a lot of <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">new vocabulary to learn</a> (what people call parts of code and data types) along with actually generating code that will get you the desired end result. This is difficult to do for everyone, but AI tools can help with some of this.</p>
+<p>In this workshop series, we aim to 1) help people who are uncomfortable using AI tools feel equipped to try them out and 2) to help experienced AI users examine how they could use AI tools more code efficiently. </p>
 
 
 ## What do the workshops entail?
