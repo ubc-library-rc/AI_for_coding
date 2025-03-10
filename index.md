@@ -10,7 +10,7 @@ nav_order: 1
 
 
 ## What do the workshops entail?
-<p>In this workshop series, we will go over skills that will help you use <a href="https://www.ibm.com/think/topics/large-language-models" target="_blank">Large Language Models (LLM)</a> to code more efficiently. 
+<p>In this workshop series, we will go over skills that can help you use <a href="https://www.ibm.com/think/topics/large-language-models" target="_blank">Large Language Models (LLMs)</a> to code more efficiently. 
 <a href="https://chatgpt.com/" target="_blank">ChatGPT</a> is an LLM, but others include 
   <a href="https://gemini.google.com/" target="_blank">Gemini</a> and 
   <a href="https://claude.ai/login?returnTo=%2F%3F" target="_blank">Claude</a>. </p>
