@@ -37,7 +37,7 @@ You can use this <a href="https://github.com/ubc-library-rc/AI_for_coding/blob/m
 It has the major important elements for a good dummy dataset: small amount of data (few observations), big variation among treatment groups (snack type), and similar to what your real data look like.
 
 ## Ask for step by step help
-Go through the step-by-step instructions we got earlier and ask ChatGPT for help with each section, using your dummy data. Simultaneously, run the code yourself to see if the code ChatGPT has given you matches the desired outcome. This is the time to address errors that occur. If you are struggling to use your dummy data, it may be beneficial to use the example data provided by ChatGPT (see the example data in the vectors in the "Prepare Your Data" section of the ChatGPT screenshot above) to see if the code works on those data and then figure out what the different between the data ChatGPT provided and your data. 
+Go through the step-by-step instructions we got earlier and ask ChatGPT for help with each section, using your dummy data. Simultaneously, run the code yourself to see if the code ChatGPT has given you matches the desired outcome. This is the time to address errors that occur. If you are struggling to use your dummy data, it may be beneficial to use the example data provided by ChatGPT (see the example data in the vectors in the "Prepare Your Data" section of the ChatGPT screenshot above) to see if the code works on those data and then figure out what the difference is between the data ChatGPT provided and your data. 
 
 ### Code from ChatGPT
 ```
