@@ -24,7 +24,7 @@ Here is a flowchart by <a href="https://www.linkedin.com/posts/tyulkanov_a-simpl
 
 
 ## Ask the AI for help with code
-AI can help with a lot, but today we focus on help with coding. Specifically, how to ask questions to get good, complete, answers or code from the AI.
+AI can help with a lot, but today we focus on help with coding. Specifically, how to ask questions to get good, complete answers or code from the AI.
 In "AI speak", a question/text input you ask/give the AI is called a prompt. 
 
 ### AI can explain code to you
