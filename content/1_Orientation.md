@@ -22,7 +22,7 @@ The library has a detailed <a href="https://ubc-library-rc.github.io/llm/" targe
   <li>"the computer" takes new data that it has never seen before. Then, using what it learned in step 1, "the computer" sees if it can predict what comes next.</li>
 </ol>
 Because LLMs are always improving, "the computer" (the LLM) always goes back to step 1.
-Your brain is a very fancy LLM in a lot of ways.
+Your brain is a very fancy LLM in a lot of ways. For example:
 <ol>
 <li>Have you ever finished someone's sentence for them? Does this happen more often when you know the person better?</li>
 <li>Can you tell how people are feeling? Are you much more accurate with people you know better?</li>
