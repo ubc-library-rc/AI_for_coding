@@ -13,13 +13,13 @@ By the end of this session we hope you will:
 - know how to access and engage with ChatGPT
 
 ## Where is ChatGPT?
-ChatGPT is a Large Language Model (LLM) that is <a href="https://chatgpt.com/" target="_blank">available online,/a>. Just like any website, you need to be connected to the internet to use it. 
+ChatGPT is a Large Language Model (LLM) that is <a href="https://chatgpt.com/" target="_blank">available online</a>. Just like any website, you need to be connected to the internet to use it. 
 
 ## Overview of what it means to “train a model”
 The library has a detailed <a href="https://ubc-library-rc.github.io/llm/" target="_blank">workshop about LLMs</a>, so for this workshop we are not going to get very technical. The very simplified version of training a model includes two steps:
 <ol type="1">
-  <li>"the computer" looks at a lot of data to learn the patterns that exist</li>
-  <li>"the computer" takes new data that it has never seen before. Then, using what it learned in step 1, "the computer" sees if it can predict what comes next.</li>
+  <li>"the computer" looks at a lot of data (training data) to learn the patterns that exist</li>
+  <li>"the computer" takes new data that it has never seen before (testing data). Then, using what it learned in step 1, "the computer" sees if it can predict what comes next.</li>
 </ol>
 Because LLMs are always improving, "the computer" (the LLM) always goes back to step 1.
 Your brain is a very fancy LLM in a lot of ways. For example:
@@ -49,18 +49,18 @@ Once ChatGPT is done answering the question, you can click on the sources button
 </div>
 
 ### Ask specific, small bits of the larger question
-If you don’t know the steps to get to your end goal, ask ChatGPT to outline the steps for you. We go over this in our next workshop.
+If you don’t know the steps to get to your end goal, ask ChatGPT to outline the steps for you. We go over this in our next workshop. The more targeted your question, the better the answer. Throughout making this workshop, ChatGPT has gotten much better at answering all parts of the question, which is cool! This might not always be true, so try asking a single question at a time if you find that the AI is not answering all questions. 
 
-The more targeted your question, the better the answer. For example:
+However, even very direct questions can get inccorect answers. In the example below, we asked a question that was not clear, then, we tested the response in the two following questions. At the time of making this workshop (March 11th, 2025), the LLM is confused about today's date. This might be fixed relatively quickly, but is a good example of issues that LLMs can have, so we kept it. 
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/time_example.png" alt="chat gets comfused" width="100%"/>
+<img src="images/time_example.png" alt="chat gets comfused" width="90%"/>
 </div>
 
 
 
 ## Drawbacks directly related to coding
-Besides the mistakes LLM can make, there are also data privacy and environemental drawbacks. There are many other potential drawbacks that we don't touch on in this workshop series.
+Besides the mistakes LLM can make, there are also data privacy and environemental drawbacks. There are many other drawbacks that we don't touch on in this workshop series.
 
 ### Data Privacy
 The LLM is always learning. How? By using user input. You can tell ChatGPT if it did a good job (thumbs up or thumbs down), but it also collects the information you feed it. This means that you probably shouldn't upload confidential or priviledged information to any LLM. We will learn how to deal with this constraint in the Dummy Data workshop.
@@ -69,12 +69,12 @@ The LLM is always learning. How? By using user input. You can tell ChatGPT if it
 <a href="https://www.mdpi.com/2071-1050/14/9/5172" target="_blank">LLMs are very resource-intensive to train and run</a>. Between the materials used to construct the big datacentres, the electricity to keep them running, and the fresh water needed to cool them, that's a lot of resource use! This does not mean that we should not use LLMs and other AIs, but it means we need to use them efficiently and with purpose. 
 
 ## Glossary
-Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>, but we list a few key terms form this page below:
+We list a few key terms below:
 <ol type="1">
   <li><b>Hallucinations</b>: Mistakes made by the LLM. Factually incorrect answers.</li>
   <li><b>Large Language Model (LLM)</b>: A large computer model that outputs text (language) based on past experiences (training data).</li>
   <li><b>Training Data</b>: Data used to make the LLM. This is what ChatGPT crawls the web for.</li>
   <li><b>Testing Data</b>: Data that is used to test the accuracy of the LLM.</li>
 </ol>
-
+Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>.
 
