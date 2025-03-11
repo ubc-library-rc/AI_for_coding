@@ -73,9 +73,9 @@ Remember, the AI is not reasoning, so ask it for sources and evaluate if the out
 We list a few key terms below:
 
 <ol type="1">
-<li>Dataframe: Data structure constructed with rows and columns that can contain many different types of data (numbers and characters).</li>
-<li>Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
-<li>Prompt: Text input you give the LLM.</li>
+<li><b>Dataframe</b>: Data structure constructed with rows and columns that can contain many different types of data (numbers and characters).</li>
+<li><b>Data structures</b>: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
+<li><b>Prompt</b>: Text input you give the LLM.</li>
 </ol>
 
 Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html " target="_blank">full workshop glossary</a>.
