@@ -54,7 +54,7 @@ If you don’t know the steps to get to your end goal, ask ChatGPT to outline th
 However, even very direct questions can get inccorect answers. In the example below, we asked a question that was not clear, then, we tested the response in the two following questions. At the time of making this workshop (March 11th, 2025), the LLM is confused about today's date. This might be fixed relatively quickly, but is a good example of issues that LLMs can have, so we kept it. 
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
-<img src="images/time_example.png" alt="chat gets comfused" width="100%"/>
+<img src="images/time_example.png" alt="chat gets comfused" width="120%"/>
 </div>
 
 
