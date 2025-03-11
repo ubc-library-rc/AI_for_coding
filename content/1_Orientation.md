@@ -5,7 +5,7 @@ nav_order: 5
 has_toc: T
 ---
 # How do LLMs work?
-To best use a tool, it is critical to understand how it works. In this first workshop of the _ChatGPT and Data Analysis_ series we use non-technical language to explain how Large Language Models (LLMs) like ChatGPT work, so you can use them more effectively. 
+To best use a tool, it is critical to understand how it works. In this first workshop of the _ChatGPT and Data Analysis_ series we use non-technical language to explain how <b>Large Language Models (LLMs)</b> like ChatGPT work, so you can use them more effectively. 
 
 By the end of this session we hope you will:
 
@@ -18,8 +18,8 @@ ChatGPT is a Large Language Model (LLM) that is <a href="https://chatgpt.com/" t
 ## Overview of what it means to “train a model”
 The library has a detailed <a href="https://ubc-library-rc.github.io/llm/" target="_blank">workshop about LLMs</a>, so for this workshop we are not going to get very technical. The very simplified version of training a model includes two steps:
 <ol type="1">
-  <li>"the computer" looks at a lot of data (training data) to learn the patterns that exist</li>
-  <li>"the computer" takes new data that it has never seen before (testing data). Then, using what it learned in step 1, "the computer" sees if it can predict what comes next.</li>
+  <li>"the computer" looks at a lot of data (<b>training data</b>) to learn the patterns that exist</li>
+  <li>"the computer" takes new data that it has never seen before (<b>testing data</b>). Then, using what it learned in step 1, "the computer" sees if it can predict what comes next.</li>
 </ol>
 Because LLMs are always improving, "the computer" (the LLM) always goes back to step 1.
 Your brain is a very fancy LLM in a lot of ways. For example:
@@ -33,7 +33,7 @@ That's right, you are predicting what is going to come next based on previous da
 <p>LLMs can be wrong too. LLMs can be wrong because the model is wrong and/or because they are missing context. This is a major concern when using LLMs, or any AI tools for that matter.</p>
 
 ## How to get factually correct answers
-<p>In LLM speak, <em>mistakes</em> are often called <em>hallucinations</em>. They occur because the LLM outputs the best answer possible, but has insufficient data to provide a correct answer. </p>
+<p>In LLM speak, <em>mistakes</em> are often called <b>hallucinations</b>. They occur because the LLM outputs the best answer possible, but has insufficient data to provide a correct answer. </p>
 
 ### Ask for sources
 ChatGPT has a way to turn on sources. Click on the globe (circled in blue) before submitting your query.
