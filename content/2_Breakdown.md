@@ -25,7 +25,7 @@ Here is a flowchart by <a href="https://www.linkedin.com/posts/tyulkanov_a-simpl
 
 ## Ask the AI for help with code
 AI can help with a lot, but today we focus on help with coding. Specifically, how to ask questions to get good, complete answers or code from the AI.
-In "AI speak", a question/text input you ask/give the AI is called a prompt. 
+In "AI speak", a question/text input you ask/give the AI is called a <strong>prompt</strong>. 
 
 ### AI can explain code to you
 Paste in some code in ChatGPT and ask it to explain what the code means. Let's try with this code:
@@ -59,9 +59,9 @@ Moving onto something more serious, let's ask ChatGPT how to run an ANOVA in R. 
 
 ## Translate the steps into prompts
 Each part of the response to the ANOVA prompt is numbered into steps. You can ask ChatGPT to help you with each part individually. 
-Remember, asking multiple questions at once leads the AI to ignore parts of the prompt, so asking for small parts of the end result is the best way to get a complete answer. 
+Remember, asking multiple questions at once leads the AI to ignore parts of the prompt, so asking for small parts of the end result is the best way to get a complete answer that can be verified with sources. 
 ### Important terminology
-You will notice in the output that there are words like "dataframe". The output from ChatGPT is a very good place to find the terms you need to know and understand as part of your analysis. 
+You will notice in the output that there are words like "<strong>dataframe</strong>", which is a type of <strong>data structure</strong>. The output from ChatGPT is a very good place to find the terms you need to know and understand as part of your analysis. 
 
 ## Notes about speaking to the AI
 When you input data (usually text) in ChatGPT, the text is converted to a format the AI can understand. This sometimes leads to the AI not understanding the issue, because the issue gets formatted out. This seems to be getting rarer as the AI improves. 
@@ -70,14 +70,15 @@ Remember, the AI is not reasoning, so ask it for sources and evaluate if the out
 
 
 ## Glossary 
-Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>, but we list a few key terms form this page below:
+We list a few key terms below:
 
 <ol type="1">
+<li>Dataframe: Data structure constructed with rows and columns that can contain many different types of data (numbers and characters).</li>
 <li>Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
 <li>Prompt: Text input you give the LLM.</li>
 </ol>
 
-
+Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html " target="_blank">full workshop glossary</a>.
 
 
 
