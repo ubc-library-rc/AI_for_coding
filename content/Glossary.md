@@ -8,6 +8,7 @@ has_toc: T
 <p>This page is designed as a reference of common terms surrounding LLM.</p> 
 
 |Bias|A systematic error in the LLM. This is brought into the LLM during the training phase.|
+|Dataframe|Data structure constructed with rows and columns that can contain many different types of data (numbers and characters).|
 |Data type|The kind of data in your dataset. For example, numbers are numeric data and letters are character data.|
 |Data structures|Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format.|
 |Dummy data|A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.|
