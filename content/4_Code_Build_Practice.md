@@ -94,6 +94,8 @@ Does the output make sense with your dummy data? In the case of run speed, it ma
 ## Glossary
 Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>, but we list a few key terms form this page below:
 <ol type="1">
+  <li><b>Data type</b>: The kind of data in your dataset. For example, numbers are numeric data, and letters are character data.</li> 
+<li><b>Data structures</b>: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
   <li><b>Dummy data</b>: A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.</li>
   <li><b>Prompt</b>: Text input you give the LLM.</li>
 </ol>
