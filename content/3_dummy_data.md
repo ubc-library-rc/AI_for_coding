@@ -17,7 +17,7 @@ By the end of this session we hope you will:
 The major issue around privacy for LLMs is that they take user input and incorporate it into the model. Here, we emphasize an example of concern that arises as a consequence of data ingestion in LLM for confidential and non-confidential data.  
 
 ### Confidential data
-Patient records and Indigenous knowledge are examples of data that are confidential and should never be uploaded to LLM. These data need to be handled with care in terms of stage and who has access to the raw data, so clearly, they should not be uploaded to LLM.
+Patient records and Indigenous knowledge are examples of data that are confidential and should never be uploaded to LLM. These data need to be handled with care in terms of stage (where paper and digital reccords are kept) and who has access to the raw data, so clearly, they should not be uploaded to LLM.
 
 ### Non-confidential data
 These data include data that would be made public anyways. For example, water temperature measurements that would be published along with a manuscript. Although these data do not pose the same privacy concerns as confidential data, feeding these data into LLM means that the model will use your data and will have no way of “knowing” where the data are from, so you won’t get credit for your work. 
@@ -39,7 +39,7 @@ The most useful fake datasets are typically:
 
 #### in R
 
-An example of making a dummy dataframe in R. <strong>This is the way to go if you have more complex data structures.</strong> Make sure that the format in which you save the dummy data is the same as your real data. 
+An example of making a dummy dataframe in R. <strong>This is the way to go if you have more complex <em>data structures</em>.</strong> Make sure that the format in which you save the dummy data is the same as your real data. 
 ```
 ## make vectors
 patient_id = c("1", "2", "3", "4", "5",
@@ -62,8 +62,13 @@ write.csv(run_train, "run_train.csv", row.names=F)
 </div>
 
 #### In Excel
-<strong>This is the way to go if you have simple data structures </strong>. 
+<strong>This is the way to go if you have simple <em>data structures</em> </strong>. 
 Write out the values in an Excel document and save it in the same format that your real data are in.
+
+<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
+<img src="images/excel_example.png" alt="image of the Excel file" width="30%"/>
+</div>
+
 
 ### Upload the dummy data to ChatGPT
 Upload the data to ChatGPT (button circled in blue) and ask it for summary stats. 
@@ -73,11 +78,12 @@ Upload the data to ChatGPT (button circled in blue) and ask it for summary stats
 
 
 ## Glossary
-Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>, but we list a few key terms form this page below:
+We list a few key terms below:
 
 <ol type="1">
- <li>Data type: The kind of data in your dataset. For example, numbers are numeric data, and letters are character data.</li> 
-<li>Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
-  <li>Dummy data: A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.</li>
+ <li><b>Data type</b>: The kind of data in your dataset. For example, numbers are numeric data, and letters are character data.</li> 
+<li><b>Data structures</b>: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
+  <li><b>Dummy data</b>: A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data.</li>
 </ol>
 
+Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html " target="_blank">full workshop glossary</a>.
