@@ -15,7 +15,7 @@ By the end of this session we hope you will:
 
 
 ## Ask for help (<a href="https://ubc-library-rc.github.io/AI_for_coding/content/2_Breakdown.html" target="_blank">How to ask for help workshop</a>)
-Ask the AI (prompt the AI): “What are the step-by-step instructions to run a two-sample t-test in R”? A t-test is a statistical test to compare the mean of 2 groups. Ask for sources and note down the steps.
+Ask the AI (<b>prompt</b> the AI): “What are the step-by-step instructions to run a two-sample t-test in R”? A t-test is a statistical test to compare the mean of 2 groups. Ask for sources and note down the steps. <em>Note, we specify "in R" here because we want the steps for data analysis in R. Specify a different softwear as needed.</em>
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/t-test_steps.png" alt="start of steps to run a t-test" width="60%"/>
@@ -24,26 +24,34 @@ Ask the AI (prompt the AI): “What are the step-by-step instructions to run a t
 ## Upload data for ChatGPT to use (<a href="https://ubc-library-rc.github.io/AI_for_coding/content/3_dummy_data.html" target="_blank">Dummy data workshop</a>)
 ChatGPT uses example data in the code, but using dummy data allows the generated code to use the variable names in your dataset, so you won't need to edit the code when copy/pasting it from the response. 
 <ol type="1">
-<li>Make a dummy dataset. Let’s make one with two columns:
+<li>Make a dummy dataset (first image below) with the same <b>data structure</b> and <b>data types</b> as your real data. Let’s make one with two columns:
   <ol type="i">
   <li>A continuous variable (column A)</li>
   <li>Indicating to which of the two groups the observation in column (B) belongs.</li>
   </ol>
 </li>
-<li>Upload the dummy data (if you want ChatGPT to use it to generate new example code or run the t-test on it for you).</li>
+<li>Upload the dummy data (seccond image below). Newer ChatGPT versions can run the t-test directly, but we don't reccoment this. </li>
 </ol>
 
 <div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
 <img src="images/run_snack.png" alt="start of steps to run a t-test" width="20%"/>
 </div>
 
+<div style="margin-left: 5%; margin-top: 20px; margin-bottom: 40px">
+<img src="images/t-test_on_snack_data.png" alt="ChatGPT data upload" width="60%"/>
+</div>
+
 You can use this <a href="https://github.com/ubc-library-rc/AI_for_coding/blob/main/content/pre_run_snack_effect_on_run_speed.csv" target="_blank">dummy data</a>.
 It has the major important elements for a good dummy dataset: small amount of data (few observations), big variation among treatment groups (snack type), and similar to what your real data look like.
 
 ## Ask for step by step help
-<p>Go through the step-by-step instructions we got earlier and ask ChatGPT for help with each section, using your dummy data. Simultaneously, run the code yourself to see if the code ChatGPT has given you matches the desired outcome. </p>
+<p>Go through the step-by-step instructions we got earlier and ask ChatGPT for help with each section as needed. </p>
 
-<p>This is the time to address errors that occur. If you are struggling to use your dummy data, it may be beneficial to use the example data provided by ChatGPT (see the example data in the vectors in the "Prepare Your Data" section of the ChatGPT screenshot above, which we inserted in the code block below) to see if the code works on those data and then figure out what the difference is between the data ChatGPT provided and your data.<p></p> 
+<p>If ChatGPT gives you code and data, you can try running that first (see "Code from ChatGPT" section bellow) before using your dummy data (see "R code built fom the ChatGPT..." section below). <em>Note:ChatGPT does not always give dummy data and/or code right away, so you might have to ask for the code for each section. Recently, it seems to always give code, even for complex analyses.</em></p>
+  
+<p>In either case, check if the code ChatGPT has given you matches the desired outcome. </p>
+
+<p>This is the time to address errors that occur before moving on to using your real data.</p> 
 
 ### Code from ChatGPT
 ```
@@ -92,7 +100,7 @@ t.test(group1$run_speed, group2$run_speed)
 Does the output make sense with your dummy data? In the case of run speed, it makes sense that the two groups are different because we made our data that way. 
 
 ## Glossary
-Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html" target="_blank">full workshop glossary</a>, but we list a few key terms form this page below:
+We list a few key terms below:
 <ol type="1">
   <li><b>Data type</b>: The kind of data in your dataset. For example, numbers are numeric data, and letters are character data.</li> 
 <li><b>Data structures</b>: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format.</li>
@@ -100,3 +108,4 @@ Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/co
   <li><b>Prompt</b>: Text input you give the LLM.</li>
 </ol>
 
+Here is a link to the <a href="https://ubc-library-rc.github.io/AI_for_coding/content/Glossary.html " target="_blank">full workshop glossary</a>.
