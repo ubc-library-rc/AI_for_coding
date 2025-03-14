@@ -27,7 +27,7 @@ Your brain is a very fancy LLM in a lot of ways. For example:
 <li>Have you ever finished someone's sentence for them? Does this happen more often when you know the person better?</li>
 <li>Can you tell how people are feeling? Are you much more accurate with people you know better?</li>
 </ol>
-That's right, you are predicting what is going to come next based on previous data (experience with that person). More and better data = better predictions. In addition, humans can rely on more than just "data", "patterns", and "predictions" to shape and adjust their behavior. We rely on countext around this information to inform our actions. 
+That's right, you are predicting what is going to come next based on previous data (experience with that person). More and better data = better predictions. In addition, humans can rely on more than just "data", "patterns", and "predictions" to shape and adjust their behavior. We rely on context around this information to inform our actions. 
 
 <p>That's very cool! But, this should cause you to pause. You are also wrong sometimes, even with the people you know best (partners, best friends, kids,...). </p>
 <p>LLMs can be wrong too. LLMs can be wrong because the model is wrong and/or because they are missing context. This is a major concern when using LLMs, or any AI tools for that matter.</p>
