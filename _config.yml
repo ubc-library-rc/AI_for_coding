@@ -1,6 +1,6 @@
 title: ChatGPT for data analysis
 remote_theme: ubc-library-rc/rc-theme
-#color_scheme: rc
+color_scheme: rc
 github_repo_url: "https://github.com/ubc-library-rc/AI_for_coding/" 
 
 # license information for workshop content
