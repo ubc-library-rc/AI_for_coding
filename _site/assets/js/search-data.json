@@ -1,0 +1,268 @@
+{"0": {
+    "doc": "1. How do LLMs work?",
+    "title": "How do LLMs work?",
+    "content": "To best use a tool, it is critical to understand how it works. In this first workshop of the ChatGPT and Data Analysis series we use non-technical language to explain how Large Language Models (LLMs) like ChatGPT work, so you can use them more effectively. By the end of this session we hope you will: . | have a conceptual understanding of how LLMs work | know how to access and engage with ChatGPT | . ",
+    "url": "/content/1_Orientation.html#how-do-llms-work",
+    
+    "relUrl": "/content/1_Orientation.html#how-do-llms-work"
+  },"1": {
+    "doc": "1. How do LLMs work?",
+    "title": "Where is ChatGPT?",
+    "content": "ChatGPT is a Large Language Model (LLM) that is available online. Just like any website, you need to be connected to the internet to use it. ",
+    "url": "/content/1_Orientation.html#where-is-chatgpt",
+    
+    "relUrl": "/content/1_Orientation.html#where-is-chatgpt"
+  },"2": {
+    "doc": "1. How do LLMs work?",
+    "title": "Overview of what it means to “train a model”",
+    "content": "The library has a detailed workshop about LLMs, so for this workshop we are not going to get very technical. The very simplified version of training a model includes two steps: . | \"the computer\" looks at a lot of data (training data) to learn the patterns that exist | \"the computer\" takes new data that it has never seen before (testing data). Then, using what it learned in step 1, \"the computer\" sees if it can predict what comes next. | . Because LLMs are always improving, “the computer” (the LLM) always goes back to step 1. Your brain is a very fancy LLM in a lot of ways. For example: . | Have you ever finished someone's sentence for them? Does this happen more often when you know the person better? | Can you tell how people are feeling? Are you much more accurate with people you know better? | . That’s right, you are predicting what is going to come next based on previous data (experience with that person). More and better data = better predictions. In addition, humans can rely on more than just “data”, “patterns”, and “predictions” to shape and adjust their behavior. We rely on context around this information to inform our actions. That's very cool! But, this should cause you to pause. You are also wrong sometimes, even with the people you know best (partners, best friends, kids,...). LLMs can be wrong too. LLMs can be wrong because the model is wrong and/or because they are missing context. This is a major concern when using LLMs, or any AI tools for that matter. ",
+    "url": "/content/1_Orientation.html#overview-of-what-it-means-to-train-a-model",
+    
+    "relUrl": "/content/1_Orientation.html#overview-of-what-it-means-to-train-a-model"
+  },"3": {
+    "doc": "1. How do LLMs work?",
+    "title": "How to get factually correct answers",
+    "content": "In LLM speak, mistakes are often called hallucinations. They occur because the LLM outputs the best answer possible, but has insufficient data to provide a correct answer. Ask for sources . ChatGPT has a way to turn on sources. Click on the globe (circled in blue) before submitting your query. Once ChatGPT is done answering the question, you can click on the sources button (circled in blue) and the source will pop up on the right hand side. Ask specific, small bits of the larger question . If you don’t know the steps to get to your end goal, ask ChatGPT to outline the steps for you. We go over this in our next workshop. The more targeted your question, the better the answer. Throughout making this workshop, ChatGPT has gotten much better at answering all parts of the question, which is cool! This might not always be true, so try asking a single question at a time if you find that the AI is not answering all questions. However, even very direct questions can get inccorect answers. In the example below, we asked a question that was not clear, then, we tested the response in the two following questions. At the time of making this workshop (March 11th, 2025), the LLM is confused about today’s date. This might be fixed relatively quickly, but is a good example of issues that LLMs can have, so we kept it. ",
+    "url": "/content/1_Orientation.html#how-to-get-factually-correct-answers",
+    
+    "relUrl": "/content/1_Orientation.html#how-to-get-factually-correct-answers"
+  },"4": {
+    "doc": "1. How do LLMs work?",
+    "title": "Drawbacks directly related to coding",
+    "content": "Besides the mistakes LLM can make, there are also data privacy and environemental drawbacks. There are many other drawbacks that we don’t touch on in this workshop series. Data Privacy . The LLM is always learning. How? By using user input. You can tell ChatGPT if it did a good job (thumbs up or thumbs down), but it also collects the information you feed it. This means that you probably shouldn’t upload confidential or priviledged information to any LLM. We will learn how to deal with this constraint in the Dummy Data workshop. Environemental . LLMs are very resource-intensive to train and run. Between the materials used to construct the big datacentres, the electricity to keep them running, and the fresh water needed to cool them, that’s a lot of resource use! This does not mean that we should not use LLMs and other AIs, but it means we need to use them efficiently and with purpose. ",
+    "url": "/content/1_Orientation.html#drawbacks-directly-related-to-coding",
+    
+    "relUrl": "/content/1_Orientation.html#drawbacks-directly-related-to-coding"
+  },"5": {
+    "doc": "1. How do LLMs work?",
+    "title": "Glossary",
+    "content": "We list a few key terms below: . | Hallucinations: Mistakes made by the LLM. Factually incorrect answers. | Large Language Model (LLM): A large computer model that outputs text (language) based on past experiences (training data). | Training Data: Data used to make the LLM. This is what ChatGPT crawls the web for. | Testing Data: Data that is used to test the accuracy of the LLM. | . Here is a link to the full workshop glossary. ",
+    "url": "/content/1_Orientation.html#glossary",
+    
+    "relUrl": "/content/1_Orientation.html#glossary"
+  },"6": {
+    "doc": "1. How do LLMs work?",
+    "title": "1. How do LLMs work?",
+    "content": " ",
+    "url": "/content/1_Orientation.html",
+    
+    "relUrl": "/content/1_Orientation.html"
+  },"7": {
+    "doc": "2. How to ask for help",
+    "title": "How to ask for help?",
+    "content": "ChatGPT will answer almost any question but there are ways to produce more useful and constructive responses. In this session we learn how to use ChatGPT to better understand existing code and how to generate new code. By the end of this session we hope you will: . | understand how ChatGPT can help interpret and write code for data analysis | appreciate the value of breaking your question into steps | . ",
+    "url": "/content/2_Breakdown.html#how-to-ask-for-help",
+    
+    "relUrl": "/content/2_Breakdown.html#how-to-ask-for-help"
+  },"8": {
+    "doc": "2. How to ask for help",
+    "title": "When is asking AI for help appropriate?",
+    "content": "Here is a flowchart by Aleksandr Tiulkanov about when AI use is appropriate: . ",
+    "url": "/content/2_Breakdown.html#when-is-asking-ai-for-help-appropriate",
+    
+    "relUrl": "/content/2_Breakdown.html#when-is-asking-ai-for-help-appropriate"
+  },"9": {
+    "doc": "2. How to ask for help",
+    "title": "Ask the AI for help with code",
+    "content": "AI can help with a lot, but today we focus on help with coding. Specifically, how to ask questions to get good, complete answers or code from the AI. In “AI speak”, a question/text input you ask/give the AI is called a prompt. AI can explain code to you . Paste in some code in ChatGPT and ask it to explain what the code means. Let’s try with this code: . library(tidyverse) ggplot(mtcars, aes(x=cyl, y=mpg))+ geom_point() . Note about LLM explanations . LLMs are text generators, so when you ask them to explain something, they generate text that explains the concepts you asked about. However, LLMs do not understand the output. This is a small, but important distinction. It means that if the answer seems superficial and not fully satisfactory, that’s because it is. You can ask the LLM to re-phrase or re-explain, but at some point, it might be better to go look at content written by a human. AI can write code for you . ChatGPT and other AI models are often text generators. Code is text, so it is well within their capabilities to code for you (most of the time). However, if we recall from last week, how questions are worded is very important, as it affects the quality and completeness of the answer the AI generates. In this section, we learn how to talk to the AI to get the best possible answer. Breakdown the analysis into steps: Steps to make a sandwich . Let’s ask ChatGPT how to make a sandwich. You can specify preferences, like we did (cheese!). Breakdown the analysis into steps: Steps to run an analysis of variance (ANOVA) . Moving onto something more serious, let’s ask ChatGPT how to run an ANOVA in R. ANOVA stands for analysis of variance. It is a statistical test to compare the mean of more than 2 groups. ",
+    "url": "/content/2_Breakdown.html#ask-the-ai-for-help-with-code",
+    
+    "relUrl": "/content/2_Breakdown.html#ask-the-ai-for-help-with-code"
+  },"10": {
+    "doc": "2. How to ask for help",
+    "title": "Translate the steps into prompts",
+    "content": "Each part of the response to the ANOVA prompt is numbered into steps. You can ask ChatGPT to help you with each part individually. Remember, asking multiple questions at once leads the AI to ignore parts of the prompt, so asking for small parts of the end result is the best way to get a complete answer that can be verified with sources. Important terminology . You will notice in the output that there are words like “dataframe”, which is a type of data structure. The output from ChatGPT is a very good place to find the terms you need to know and understand as part of your analysis. ",
+    "url": "/content/2_Breakdown.html#translate-the-steps-into-prompts",
+    
+    "relUrl": "/content/2_Breakdown.html#translate-the-steps-into-prompts"
+  },"11": {
+    "doc": "2. How to ask for help",
+    "title": "Notes about speaking to the AI",
+    "content": "When you input data (usually text) in ChatGPT, the text is converted to a format the AI can understand. This sometimes leads to the AI not understanding the issue, because the issue gets formatted out. This seems to be getting rarer as the AI improves. Remember, the AI is not reasoning, so ask it for sources and evaluate if the output you get from the analysis makes sense with what you were expecting from your data. Having dummy (fake) datasets where you know the outcome is a great way to test if your code makes sense (more on this in the next week’s workshop). ",
+    "url": "/content/2_Breakdown.html#notes-about-speaking-to-the-ai",
+    
+    "relUrl": "/content/2_Breakdown.html#notes-about-speaking-to-the-ai"
+  },"12": {
+    "doc": "2. How to ask for help",
+    "title": "Glossary",
+    "content": "We list a few key terms below: . | Dataframe: Data structure constructed with rows and columns that can contain many different types of data (numbers and characters). | Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format. | Prompt: Text input you give the LLM. | . Here is a link to the full workshop glossary. ",
+    "url": "/content/2_Breakdown.html#glossary",
+    
+    "relUrl": "/content/2_Breakdown.html#glossary"
+  },"13": {
+    "doc": "2. How to ask for help",
+    "title": "2. How to ask for help",
+    "content": " ",
+    "url": "/content/2_Breakdown.html",
+    
+    "relUrl": "/content/2_Breakdown.html"
+  },"14": {
+    "doc": "3. Dummy data and privacy",
+    "title": "Dummy data and privacy",
+    "content": "ChatGPT collects all the information you feed it. In this session we learn why using non-private dummy data is more practical and less risky in most situations. We also go over how to create dummy data, so you feel empowered to make some when the time comes. By the end of this session we hope you will: . | understand the privacy risks inherent in LLMs like ChatGPT | know how to create dummy data suitable for your project | . ",
+    "url": "/content/3_dummy_data.html#dummy-data-and-privacy",
+    
+    "relUrl": "/content/3_dummy_data.html#dummy-data-and-privacy"
+  },"15": {
+    "doc": "3. Dummy data and privacy",
+    "title": "Data Privacy",
+    "content": "The major issue around privacy for LLMs is that they take user input and incorporate it into the model. Here, we emphasize an example of concern that arises as a consequence of data ingestion in LLM for confidential and non-confidential data. Confidential data . Patient records and Indigenous knowledge are examples of data that are confidential and should never be uploaded to LLM. These data need to be handled with care in terms of stage (where paper and digital reccords are kept) and who has access to the raw data, so clearly, they should not be uploaded to LLM. Non-confidential data . These data include data that would be made public anyways. For example, water temperature measurements that would be published along with a manuscript. Although these data do not pose the same privacy concerns as confidential data, feeding these data into LLM means that the model will use your data and will have no way of “knowing” where the data are from, so you won’t get credit for your work. ",
+    "url": "/content/3_dummy_data.html#data-privacy",
+    
+    "relUrl": "/content/3_dummy_data.html#data-privacy"
+  },"16": {
+    "doc": "3. Dummy data and privacy",
+    "title": "Dummy Data",
+    "content": "Why make dummy data? . Because of data privacy, we can’t always upload data to LLMs, but being able to do this is helpful when troubleshooting code or just building an analysis. Advanced coders use dummy data all the time. In addition, having fake data to work with allows you to know the results of statistical tests, which is always a good way to check code. What makes a good dummy dataset . The most useful fake datasets are typically: . | Small | With big variation among treatment groups, in order to see the difference in plots easily and guarantee a significant result when testing statistical models | Similar to what your real data look like. For example if your data have three treatment groups that were measured on two different days, your fake data should also have this. Fake data should also replicate the structure of your data. So if your real data have measurements for each day in different columns, your fake data should also have that structure. The data type in your dummy data should also be the same as your real data. For example, if the data in your columns are numeric, the dummy data should also be numeric. | . Let’s make one! . Dummy data file here . in R . An example of making a dummy dataframe in R. This is the way to go if you have more complex data structures. Make sure that the format in which you save the dummy data is the same as your real data. ## make vectors patient_id = c(\"1\", \"2\", \"3\", \"4\", \"5\", \"1\", \"2\", \"3\", \"4\", \"5\") day = c(\"1\", \"1\",\"1\",\"1\",\"1\", \"2\",\"2\",\"2\",\"2\",\"2\") distance_ran = c(\"400\", \"350\", \"351\", \"410\", \"310\", \"6000\", \"5250\", \"5265\", \"6150\", \"4650\") # distances for day 2 all 15 x day 1 values ## make a dataframe run_train = data.frame(patient_id, day, distance_ran) ## can then save as a .csv file that can be uploaded to ChatGPT write.csv(run_train, \"run_train.csv\", row.names=F) . In Excel . This is the way to go if you have simple data structures . Write out the values in an Excel document and save it in the same format that your real data are in. Upload the dummy data to ChatGPT . Upload the data to ChatGPT (button circled in blue) and ask it for summary stats. ",
+    "url": "/content/3_dummy_data.html#dummy-data",
+    
+    "relUrl": "/content/3_dummy_data.html#dummy-data"
+  },"17": {
+    "doc": "3. Dummy data and privacy",
+    "title": "Glossary",
+    "content": "We list a few key terms below: . | Data type: The kind of data in your dataset. For example, numbers are numeric data, and letters are character data. | Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format. | Dummy data: A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data. | . Here is a link to the full workshop glossary. ",
+    "url": "/content/3_dummy_data.html#glossary",
+    
+    "relUrl": "/content/3_dummy_data.html#glossary"
+  },"18": {
+    "doc": "3. Dummy data and privacy",
+    "title": "3. Dummy data and privacy",
+    "content": " ",
+    "url": "/content/3_dummy_data.html",
+    
+    "relUrl": "/content/3_dummy_data.html"
+  },"19": {
+    "doc": "4. Coding with ChatGPT",
+    "title": "Coding with ChatGPT",
+    "content": "Now that we have learned a few skills for interacting with LLMs more effectively in the previous sessions, it is time to put it all together. We will use ChatGPT to help us run a t-test in R. By the end of this session we hope you will: . | understand where ChatGPT can help in a data analysis workflow | feel confident using ChatGPT in your own coding tasks | . ",
+    "url": "/content/4_Code_Build_Practice.html#coding-with-chatgpt",
+    
+    "relUrl": "/content/4_Code_Build_Practice.html#coding-with-chatgpt"
+  },"20": {
+    "doc": "4. Coding with ChatGPT",
+    "title": "Ask for help (How to ask for help workshop)",
+    "content": "Ask the AI (prompt the AI): “What are the step-by-step instructions to run a two-sample t-test in R”? A t-test is a statistical test to compare the mean of 2 groups. Ask for sources and note down the steps. Note, we specify “in R” here because we want the steps for data analysis in R. Specify a different softwear as needed. ",
+    "url": "/content/4_Code_Build_Practice.html#ask-for-help-how-to-ask-for-help-workshop",
+    
+    "relUrl": "/content/4_Code_Build_Practice.html#ask-for-help-how-to-ask-for-help-workshop"
+  },"21": {
+    "doc": "4. Coding with ChatGPT",
+    "title": "Upload data for ChatGPT to use (Dummy data workshop)",
+    "content": "ChatGPT uses example data in the code, but using dummy data allows the generated code to use the variable names in your dataset, so you won’t need to edit the code when copy/pasting it from the response. | Make a dummy dataset (first image below) with the same data structure and data types as your real data. Let’s make one with two columns: . | A continuous variable (column A) | Indicating to which of the two groups the observation in column (B) belongs. | . | Upload the dummy data (seccond image below). Newer ChatGPT versions can run the t-test directly, but we don't reccoment this. | . You can use this dummy data. It has the major important elements for a good dummy dataset: small amount of data (few observations), big variation among treatment groups (snack type), and similar to what your real data look like. ",
+    "url": "/content/4_Code_Build_Practice.html#upload-data-for-chatgpt-to-use-dummy-data-workshop",
+    
+    "relUrl": "/content/4_Code_Build_Practice.html#upload-data-for-chatgpt-to-use-dummy-data-workshop"
+  },"22": {
+    "doc": "4. Coding with ChatGPT",
+    "title": "Ask for step by step help",
+    "content": "Go through the step-by-step instructions we got earlier and ask ChatGPT for help with each section as needed. If ChatGPT gives you code and data, you can try running that first (see \"Code from ChatGPT\" section bellow) before using your dummy data (see \"R code built fom the ChatGPT...\" section below). Note:ChatGPT does not always give dummy data and/or code right away, so you might have to ask for the code for each section. Recently, it seems to always give code, even for complex analyses. In either case, check if the code ChatGPT has given you matches the desired outcome. This is the time to address errors that occur before moving on to using your real data. Code from ChatGPT . # Sample data for two groups group1 &lt;- c(8, 9, 10, 11, 12) group2 &lt;- c(13, 14, 15, 16, 17) # Normality check using Q-Q plots qqnorm(group1); qqline(group1) qqnorm(group2); qqline(group2) # Variance equality check using F-test var.test(group1, group2) # Two-sample t-test assuming equal variances t.test(group1, group2, var.equal = TRUE) # Welch's t-test (default in R) t.test(group1, group2) . R code built fom the ChatGPT output using the run speed dummy data . Note, the ChatGPT dummy data is single vectors whereas our dummy data (run speed) is in a dataframe format. # Sample data for two groups df = read.csv(\"pre_run_snack_effect_on_run_speed.csv\") ## subset into two groups group1 = subset(df, df$pre_run_snack==\"candy\") group2 = subset(df, df$pre_run_snack==\"kale\") # Normality check using Q-Q plots qqnorm(group1$run_speed); qqline(group1$run_speed) qqnorm(group2$run_speed); qqline(group2$run_speed) # Variance equality check using F-test var.test(group1$run_speed, group2$run_speed) ## variances are unequal # Welch's t-test (default in R) t.test(group1$run_speed, group2$run_speed) . ",
+    "url": "/content/4_Code_Build_Practice.html#ask-for-step-by-step-help",
+    
+    "relUrl": "/content/4_Code_Build_Practice.html#ask-for-step-by-step-help"
+  },"23": {
+    "doc": "4. Coding with ChatGPT",
+    "title": "Sanity check",
+    "content": "Does the output make sense with your dummy data? In the case of run speed, it makes sense that the two groups are different because we made our data that way. ",
+    "url": "/content/4_Code_Build_Practice.html#sanity-check",
+    
+    "relUrl": "/content/4_Code_Build_Practice.html#sanity-check"
+  },"24": {
+    "doc": "4. Coding with ChatGPT",
+    "title": "Glossary",
+    "content": "We list a few key terms below: . | Data type: The kind of data in your dataset. For example, numbers are numeric data, and letters are character data. | Data structures: Shapes or formats in which the entire dataset is saved. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generations require data in a specific format. | Dummy data: A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data. | Prompt: Text input you give the LLM. | . Here is a link to the full workshop glossary. ",
+    "url": "/content/4_Code_Build_Practice.html#glossary",
+    
+    "relUrl": "/content/4_Code_Build_Practice.html#glossary"
+  },"25": {
+    "doc": "4. Coding with ChatGPT",
+    "title": "4. Coding with ChatGPT",
+    "content": " ",
+    "url": "/content/4_Code_Build_Practice.html",
+    
+    "relUrl": "/content/4_Code_Build_Practice.html"
+  },"26": {
+    "doc": "Glossary",
+    "title": "Glossary",
+    "content": "This page is designed as a reference of common terms surrounding LLM. | Bias | A systematic error in the LLM. This is brought into the LLM during the training phase. | . | Dataframe | Data structure constructed with rows and columns that can contain many different types of data (numbers and characters). | . | Data type | The kind of data in your dataset. For example, numbers are numeric data and letters are character data. | . | Data structures | Shapes/formats the entire dataset is saved as. These could be a dataframe, a matrix, a list, a vector to name a few. Statistical analyses and graph generation require data in a specific format. | . | Dummy data | A fake dataset that has the same data types and structure as your real data. These datasets are used to make sure code works and work around data privacy and ownership concerns of using real data. | . | Hallucinations | Mistakes made by the LLM. Factually incorrect answers. | . | Large Language Model (LLM) | A large computer model that outputs text (language) based on past experiences (training data). | . | Prompt | Text input you give the LLM. | . | Prompt engineering | Someone who tests and optimizes prompts. This is important for LLM testing. | . | Training Data | Data used to make the LLM. This is what ChatGPT crawls the web for. | . | Testing Data | Data that is used to test the accuracy of the LLM. | . There is also a list of terms here. This page goes a bit more in detail for each term than the glossary in this workshop. ",
+    "url": "/content/Glossary.html",
+    
+    "relUrl": "/content/Glossary.html"
+  },"27": {
+    "doc": "UBC AI Policy",
+    "title": "UBC AI rules",
+    "content": "Professors will specify for each class or lab what AI usage is acceptable and that should be your main guidance, as long as it fits into the AI policies by UBC. UBC has a through explanation of what is and is not appropriate here, but we highlight a few key points from this website below. Our summary is general in nature and we pulled out the elements form the UBC policy that are the most relevant to this workshop series. ",
+    "url": "/content/UBC_AI_policy.html#ubc-ai-rules",
+    
+    "relUrl": "/content/UBC_AI_policy.html#ubc-ai-rules"
+  },"28": {
+    "doc": "UBC AI Policy",
+    "title": "Key points from the UBC GenAI website.",
+    "content": "Principles section . Essentially, don’t upload data to the LLM and you are responsible to ensure the output are accurate. \"Most generative AI tools store and use any data that is entered by users...possible and recommended to adjust the settings in some tools to disable the use of entered data to train the model, it is not certain that these measures mitigate the risks described above.\" . \"These analyses, at present, may not correct for bias or check for correctness, or may overcorrect for bias, and they may seem extremely believable while being inaccurate.\" . Teaching and Learning section . AI can enhance learning, but there are concerns about legalities. Similarly to the principles section, don’t upload data to the LLM. For class, UBC states “Students may use GenAI in work submitted for courses or other academic requirements only if expressly permitted within their courses or programs.”. In this section, UBC also points out that AI can be biased, give false information, and that passing off LLM output as your own is not ethical or allowed (plagiarism) as outlined in the Principles section. \"GenAI has the potential to enrich teaching and learning activities, and some may also support inclusion and enhance accessibility, depending on how they are used... align with existing UBC policies, procedures, and legal requirements\". Academic integrity section . UBC states that AI use is allowed in class, but only if explicitly allowed by the instructor. For instructors, the use of AI detection software is discouraged, as it has been shown to be inaccurate. AI detection software is so bad, that UBC has disabled the AI detection feature of Turnitin. \"Students may use GenAI in work submitted for courses or other academic requirements only if expressly permitted within their courses or programs.\" . \"Turnitin’s new AI-detection functionality is not available for use in any UBC course.\" . ",
+    "url": "/content/UBC_AI_policy.html#key-points-from-the-ubc-genai-website",
+    
+    "relUrl": "/content/UBC_AI_policy.html#key-points-from-the-ubc-genai-website"
+  },"29": {
+    "doc": "UBC AI Policy",
+    "title": "UBC AI Policy",
+    "content": "On this page, we give a breif overview of the UBC policy towards AI use. We reccomend that you look at the website to see any potential updates by UBC and to make sure you are aware of all content that is most relevant to you, which may be different from what we present here. ",
+    "url": "/content/UBC_AI_policy.html",
+    
+    "relUrl": "/content/UBC_AI_policy.html"
+  },"30": {
+    "doc": "Acknowledgements",
+    "title": "Acknowledgements",
+    "content": "Site template adapted from the just-the-docs Jekyll template created by Patrick Marsceil and available under the MIT License. ",
+    "url": "/acknowledgements.html",
+    
+    "relUrl": "/acknowledgements.html"
+  },"31": {
+    "doc": "Outline",
+    "title": "Why did we make this workshop?",
+    "content": "AI tools are here and people are using them. When first learning how to code, there is a lot of new vocabulary to learn (what people call parts of code and data types) along with actually generating code that will get you the desired end result. This is difficult to do for everyone, but AI tools can help with some of this. In this workshop series, we aim to 1) help people who are uncomfortable using AI tools feel equipped to try them out and 2) to help experienced AI users examine how they could use AI tools to code more efficiently. ",
+    "url": "/#why-did-we-make-this-workshop",
+    
+    "relUrl": "/#why-did-we-make-this-workshop"
+  },"32": {
+    "doc": "Outline",
+    "title": "What do the workshops entail?",
+    "content": "In this workshop series, we will go over skills that can help you use Large Language Models (LLMs) to code more efficiently. ChatGPT is an LLM, but others include Gemini and Claude. Each workshop builds a single skill, so feel free to attend them in a series or to target particular areas where you need more assistance. Each workshop is designed to start with 15 minutes of teaching, followed by 15 minutes of questions and/or working on practice problems. ",
+    "url": "/#what-do-the-workshops-entail",
+    
+    "relUrl": "/#what-do-the-workshops-entail"
+  },"33": {
+    "doc": "Outline",
+    "title": "Workshops",
+    "content": ". | Orientation: How do LLMs work? | Breakdown: How to ask for help | Dummy Data and Privacy | Coding with ChatGPT | TBD: Let us know what you would like to learn!! | . ",
+    "url": "/#workshops",
+    
+    "relUrl": "/#workshops"
+  },"34": {
+    "doc": "Outline",
+    "title": "Outline",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"35": {
+    "doc": "Land acknowledgement",
+    "title": "Land acknowledgement",
+    "content": "Before beginning the workshop, we’d like to acknowledge the Indigenous lands where we are located. The UBC Vancouver campus is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) peoples. Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
+    "url": "/land-acknowledgement.html",
+    
+    "relUrl": "/land-acknowledgement.html"
+  },"36": {
+    "doc": "Extra practice problems",
+    "title": "Practice problems",
+    "content": "Here we have a list of prompts you can try out to learn how LLM work a bit more and get more comfortable with coding in R. | How can I learn to code | What is a library in R | What is the difference between \" and ' in R | How do you make a boxplot in R | . ",
+    "url": "/content/practice_problems.html#practice-problems",
+    
+    "relUrl": "/content/practice_problems.html#practice-problems"
+  },"37": {
+    "doc": "Extra practice problems",
+    "title": "Extra practice problems",
+    "content": " ",
+    "url": "/content/practice_problems.html",
+    
+    "relUrl": "/content/practice_problems.html"
+  }
+}
