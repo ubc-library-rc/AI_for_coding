@@ -1,5 +1,5 @@
 ---
-title: 2. How to ask for help
+title: 2. How to ask for help (beginner)
 layout: default
 nav_order: 6
 has_toc: T
