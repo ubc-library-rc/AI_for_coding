@@ -1,5 +1,5 @@
 ---
-title: 1. How do LLMs work?
+title: 1. How do LLMs work (beginner)?
 layout: default
 nav_order: 5
 has_toc: T
