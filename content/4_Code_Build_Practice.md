@@ -1,5 +1,5 @@
 ---
-title: 4. Coding with ChatGPT
+title: 4. Coding with ChatGPT (beginner)
 layout: default
 nav_order: 8
 has_toc: T
